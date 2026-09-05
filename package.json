@@ -1,0 +1,28 @@
+{
+  "name": "fletch-registry-data",
+  "version": "0.1.0",
+  "description": "Daily git snapshots of every Stock Token, known lookalike and registry event on Robinhood Chain, pulled from the public Fletch API.",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "homepage": "https://fletch.now",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fletch-now/fletch-registry-data"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "snapshot": "node scripts/snapshot.mjs",
+    "verify": "node scripts/verify.mjs",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "viem": "2.56.0"
+  },
+  "devDependencies": {
+    "ajv": "8.17.1",
+    "ajv-formats": "3.0.1"
+  }
+}

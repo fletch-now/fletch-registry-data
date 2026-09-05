@@ -1,0 +1,1565 @@
+{
+  "startedAt": "2026-09-05T12:39:42.312Z",
+  "verifiedAt": "2026-09-05T12:48:30.630Z",
+  "rpc": "https://rpc.mainnet.chain.robinhood.com",
+  "registry": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+  "slot": "0xa3f0ad74e5423aebfd80d3ef4346578335a9a72aeaee59ff6cb3582b35133d50",
+  "checked": 194,
+  "proven": 194,
+  "mismatched": [],
+  "unread": [],
+  "results": [
+    {
+      "symbol": "AAOI",
+      "address": "0x521cf887e6531c6f667b5bc4d896e5d9bfe8eb2e",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "AAPL",
+      "address": "0xaf3d76f1834a1d425780943c99ea8a608f8a93f9",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "ABCL",
+      "address": "0x3139d77ace0cbaa5bdfd38bd1f1911a794af0b0e",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "ADBE",
+      "address": "0x232b8ed6377be97813853b0ac104c4cda8378d1b",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "AEHR",
+      "address": "0x5f604fba1162193a4388a5dfa56f556f3e133cc2",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "AEIS",
+      "address": "0xfaf9cb261b5fcc1f404bb10cd39c5c6c1974e612",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "ALAB",
+      "address": "0x748c32c3ca24edf31ea597db1f3d330a7a6da3dc",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "AMAT",
+      "address": "0x36046893810a7e7fce501229d57dc3fc8c8716d0",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "AMBA",
+      "address": "0x99d9d8663545151603863c5acbd6fc3218899009",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "AMC",
+      "address": "0x05a3d1cd21d0c88145e82600e62e7e496e0f222b",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "AMD",
+      "address": "0x86923f96303d656e4aa86d9d42d1e57ad2023fdc",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "AMKR",
+      "address": "0xdd356aa38f40a7b7076755ac854b6fbb1f0d305b",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "AMZN",
+      "address": "0x12f190a9f9d7d37a250758b26824b97ce941bf54",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "ANET",
+      "address": "0x28babd556b60e53663b8615036479a29c2cdd1bf",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "APLD",
+      "address": "0xb8dbf92f9741c9ac1c32115e78581f23509916fd",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "APP",
+      "address": "0xa249baf1063af884807c1e1400aef7784836917e",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "ASML",
+      "address": "0x47f93d52cbec7c6d2cfc080e154002370a60daea",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "ASTS",
+      "address": "0x1af6446f07eb1d97c546afc8c9544cbdf3ad5137",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "AUR",
+      "address": "0x373c06c4f7bde527d7dae4ba169e42b55e393ced",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "AVAV",
+      "address": "0xf6290b5e7c26502e2da514c31509849718ea76a5",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "AVGO",
+      "address": "0x156e175dd063a8ce274c50654ef40e0032b3fbcf",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "AXON",
+      "address": "0xc27dbd474af5181c5a8777903690d8d262d12648",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "AXTI",
+      "address": "0x141eea040c2250eec0314e336975e81f85f6585e",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "BA",
+      "address": "0x4d21483a44bf67a86b77e3da301411880797d452",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "BABA",
+      "address": "0xad25ac6c84d497db898fa1e8387bf6af3532a1c4",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "BB",
+      "address": "0x48e39e56acdba37b09020c0b734a613c9a2f100a",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "BE",
+      "address": "0x822cc93ffd030293e9842c30bbd678f530701867",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "BND",
+      "address": "0x2f62fc9fabb470c690f141c28340ed832bb27020",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "BULL",
+      "address": "0xcef9027c7d6985b85f0ba431125073529a947a68",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "CBRS",
+      "address": "0x5c90450bbb4273d7b2f17cf6917aeb237a569679",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "CCL",
+      "address": "0x9651342cea770ae9a2969ba2a52611523146aef9",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "CEG",
+      "address": "0xae517a2903e68bd929dfd15be875f8369d53e94a",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "CELH",
+      "address": "0x8cf07c5a878945185d327aaa6e33faa95f95e7bf",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "CIEN",
+      "address": "0x44f6d488021f8233b9416294d1fe9b1fee28382d",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "CLOV",
+      "address": "0x62200915e7deab1ec7f79fb246dadbb80eacddd0",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "CLS",
+      "address": "0xbf449977089c718c004a66c554b26b94ef3ad4de",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "CLSK",
+      "address": "0xcbb95bbf36099d34da091dc6fa6f49efa257cee3",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "COHR",
+      "address": "0x92f9f459f1a9a5ad266b182be7bffd1c6c666894",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "COIN",
+      "address": "0x6330d8c3178a418788df01a47479c0ce7ccf450b",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "COST",
+      "address": "0x4ea005168d7f09a7a0ba9d1def21a479950e44c2",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "CRCL",
+      "address": "0xdf0992e440dd0be65bd8439b609d6d4366bf1cb5",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "CRDO",
+      "address": "0x4d67253bc223e6b0e104f1084c1fb2b669ddc41b",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "CRM",
+      "address": "0xd95b44124e475743a7589e68f3d74008a5536d44",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "CRWD",
+      "address": "0xea72ecca2d0f6bfa1394dbbcff85b52cd4233931",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "CRWV",
+      "address": "0x5f10a1c971b69e47e059e1dc91901b59b3fb49c3",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "CSCO",
+      "address": "0xf543967eebb6f1917992ef0e68de63ab07a5a0da",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "CTSH",
+      "address": "0x63d5a3b6939a33f1e75d8bcd85759858239600db",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "CVNA",
+      "address": "0xa4f319104089fe321dc8093c6e707d4fe190a988",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "DDOG",
+      "address": "0x27c99fbde9d0d2aa4f4bfb4943f237843ddf6958",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "DELL",
+      "address": "0x941ae714ec6d8130c7b75d67160ca08f1e7d11dd",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "DJT",
+      "address": "0x1d11f0496982706c5e14a514d4e79f2e6bde4516",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "DOCN",
+      "address": "0xc02f12b9fe9e707079ec0d546f3050d3f6c1f8bd",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "ELF",
+      "address": "0x39ec44bee4f6a116c6f9b8de566848a985c53c60",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "EWT",
+      "address": "0x1c690498150252222c275a5ced69d3a6b1f52d5e",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "EWY",
+      "address": "0x7f0abef0c07280f82c6a08ead09ded6bae2c13fc",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "F",
+      "address": "0x25c288e6d899b9bc30160965ad9644c67e73be0c",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "FICO",
+      "address": "0xa48f22a46c0f1c46ca7d111cb6c137c271987180",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "FIG",
+      "address": "0x41f4267525a8aff329540ef24fd83d9044758b33",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "FISV",
+      "address": "0x9ece29a4a2397c0a35fb5fa8ee2b9509130a98cc",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "FIX",
+      "address": "0x93dbb1d2dc5d63f4abacff30485273f538df68ac",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "FLNC",
+      "address": "0x282e87451e10fa6679bc7d76c69be44cd3fc777c",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "FLY",
+      "address": "0x03bc731ffb162cdd7b98d3c6542bfc291126075d",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "FTNT",
+      "address": "0x3fb8976980d486084b2eb4a404bd12e72823958f",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "FUTU",
+      "address": "0xeb30663bdff0622ef4e4e5cbb4e975f19f33f51d",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "GE",
+      "address": "0x63b814ddbd6bf339f25fed8c36158a008d5b373e",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "GEV",
+      "address": "0x94b8aae43a1ccc08aa64b7d1f29b4d920af4a0c9",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "GLD",
+      "address": "0xc9a981fee1f9dec688bb123ccdecc63d0debfc4e",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "GLW",
+      "address": "0x7c04e6a3368f2a1de3874f0e80d2e0a1a9915da6",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "GLXY",
+      "address": "0x2d427692e928fa156ec22acfabafa0447c5805b7",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "GME",
+      "address": "0x1b0e319c6a659f002271b69db8a7df2f911c153e",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "GOOGL",
+      "address": "0x2e0847e8910a9732eb3fb1bb4b70a580adad4fe3",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "HII",
+      "address": "0xeb61c0ed490a367d4e3631ccf8a74b3bfc7e775d",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "HIMS",
+      "address": "0xccee82fe024c36fa15e1005ede3e9e4787e23d09",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "HPE",
+      "address": "0x59dd09d4900c2e4b5f75b7c0d4e6796fcc234cb1",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "HWM",
+      "address": "0xaea445c5f3db1a462998ccc422a875a361ee5d99",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "IBM",
+      "address": "0x980dcf6766fa79f5cf0c4aadb3ab477ff15a9619",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "IBRX",
+      "address": "0x7c148f74ac7445d1f28366b7fcdc6792a9fcd0cf",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "INDA",
+      "address": "0xacef2e09adb47ad6abebad9ff06689e60615c2b6",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "INFQ",
+      "address": "0xb853bc83a753342a4f8320ea680b4b1e84118d21",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "INOD",
+      "address": "0xf1953dab6fad537488d5a022361ffaa8b4c95ec6",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "INTC",
+      "address": "0xc72b96e0e48ecd4dc75e1e45396e26300bc39681",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "INTU",
+      "address": "0x56d23bee5f41a7120170b0c603dae30128e460e9",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "IONQ",
+      "address": "0x558378e000d634a36593e338ebacdd6207640efe",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "IREN",
+      "address": "0xf0ab0c93be6f41369d302e55db1a96b3c430212d",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "JBL",
+      "address": "0xeaf2512dfc1beac608f8794b3793cd4e02894aa6",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "JNJ",
+      "address": "0x03dfbbe0ac4e7bcdafd08ed41a400326b77d8c80",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "JOBY",
+      "address": "0xb334c5ce741b80b5b671f47f5c269cb193fe8e24",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "KLAC",
+      "address": "0x96b933c74ecb4a0926b9210cef7b743ef46be2e9",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "KSS",
+      "address": "0x12e3c047bf9aecaf9ddc98c05c31bfd1dd043993",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "KTOS",
+      "address": "0x7fd06a4d81ccfa3f351394e144d5191874c31313",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "LHX",
+      "address": "0x48d60243c66437c6ac3c2495be94747aed5dfe25",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "LITE",
+      "address": "0x8ef20885f94e3d9bc7eb3080279188bd5ed7c08c",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "LLY",
+      "address": "0x8005d266423c7ea827372c9c864491e5786600ea",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "LMT",
+      "address": "0x329fcaceb9ad6f9580dd5f643fed0646900d043c",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "LRCX",
+      "address": "0x57b0030166db0c31690d1a5aa167e2e26e2c29a4",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "LULU",
+      "address": "0x4e62068525ab11fe768e29dfd00ef909b9803016",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "LUNR",
+      "address": "0xa5d4968421ba94814be3b136b15cf422101ac1a3",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "MDB",
+      "address": "0xddf2266b79abf0b48898959b0ed6e6adf512be74",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "META",
+      "address": "0xc0d6457c16cc70d6790dd43521c899c87ce02f35",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "MOD",
+      "address": "0xc6cbad1016b38b797610c25e1dc7d95988b1f362",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "MPWR",
+      "address": "0x52d50d0280ad1054b43f052bd70a49a212a1b128",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "MRNA",
+      "address": "0x43b07d15ce533bec5476d70c22a78a1b2b662155",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "MRVL",
+      "address": "0x62fd0668e10d8b72339be2dcf7643001688ff13b",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "MSFT",
+      "address": "0xe93237c50d904957cf27e7b1133b510c669c2e74",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "MSTR",
+      "address": "0xec262a75e413fafd0df80480274532c79d42da09",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "MTSI",
+      "address": "0xc93f4d80e268ab922e871bd169156c3cc41894e6",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "MU",
+      "address": "0xff080c8ce2e5feadaca0da81314ae59d232d4afd",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "MXL",
+      "address": "0x48961813349333209994750ffa89b3c5c22ec969",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "NAVN",
+      "address": "0xf7181b63fdb858558a74ba96bc42732684cd7965",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "NBIS",
+      "address": "0x9d9c6684f596f66a64c030b93a886d51fd4d7931",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "NET",
+      "address": "0x116f00968269b7bfbad4109ce591d6e74c0601d4",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "NFLX",
+      "address": "0xe0444ef8bf4ed74f74fd73686e2ddf4c1c5591e8",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "NNE",
+      "address": "0xbef75684c43c4ea7bd18dd532a2244674ee8b926",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "NOW",
+      "address": "0x0c3260af4b8f13a69c4c2dfb84fd667890cdfa14",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "NU",
+      "address": "0x408c14038a04f7bd235329e26d2bf569ee20e250",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "NVDA",
+      "address": "0xd0601ce157db5bdc3162bbac2a2c8af5320d9eec",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "NVTS",
+      "address": "0xbe6702d7b70315376dc48a3293f24f0982f86386",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "OKLO",
+      "address": "0x8b2f88497f15a18e9d4ffa1a8ffb8538399ae774",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "ON",
+      "address": "0xbbd09f72b025360fee5c928053dca6248d35be54",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "ONTO",
+      "address": "0x8ff63eaeee3fe54ba450c4f5538064ec5a893aef",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "ORCL",
+      "address": "0xb0992820e760d836549ba69bc7598b4af75dee03",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "OUST",
+      "address": "0x40e7a279850e443f582059ae5dc1c3b6563e6395",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "P",
+      "address": "0x1cdad396db64bda184d5182a97dd9b3c62100b7d",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "PANW",
+      "address": "0xb039597ed45cba7b6e2fb9e8be51802969cee5be",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "PATH",
+      "address": "0xfb2664f07b6aadd29ea7a59d8859b1aeb8645cda",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "PENG",
+      "address": "0x9b23573b156b52565012f5ce02cdf60afbaa70be",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "PFE",
+      "address": "0x7066a64c24e4206cd62e83bf198c1e7eb361f51e",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "PL",
+      "address": "0xaa4d64474c172010ab57719cb9951e6142a100d3",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "PLTR",
+      "address": "0x894e1ec2d74ffe5aef8dc8a9e84686accb964f2a",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "POET",
+      "address": "0xcf6b2d875361be807eafa57458c80f28521f9333",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "POWL",
+      "address": "0x237c16d66590f67b886d978acd362eaead8b18c7",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "PR",
+      "address": "0x4189f0c66ebbb0bfef1c31f763131361ef32f77c",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "PWR",
+      "address": "0x9ab02ead789b6903c3c44d0ed32f9c707cdf12fd",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "QBTS",
+      "address": "0xc583c60aef9dc401da72cec1b404743a93cea1cc",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "QCOM",
+      "address": "0x0f17206447090e464c277571124dd2688e48aea9",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "QQQ",
+      "address": "0xd5f3879160bc7c32ebb4dc785f8a4f505888de68",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "QUBT",
+      "address": "0x59818904ab4ce163b3ce4ffb64f2d6ca02c434b4",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "RBLX",
+      "address": "0xf0c4bf4c582cb3836e98394b1d4e7b7281101be8",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "RCAT",
+      "address": "0xfde6b5d9bb419b10c23268c74e369abff39c0460",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "RDDT",
+      "address": "0x05b37fb53a299a1b874a619e1c4c404d52c36f4c",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "RDW",
+      "address": "0x92ef19e82bd8ff36661de838d5eae7e5cef0effe",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "RGTI",
+      "address": "0x284358abc07f9359f19f4b5b4ac91901be2597ba",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "RIVN",
+      "address": "0xb1bf26c1d20ff267a4f93550d1e0d06ac40a114b",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "RKLB",
+      "address": "0x3b14c39e89d60d627b42a1a4ca45b5bb45fc12e2",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "RUN",
+      "address": "0x756bc80af765c82da966a788858d65adf14f3793",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SATS",
+      "address": "0x95052ddcd5dc25641657424a8cf04834997e1730",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SCHD",
+      "address": "0xd63abb2c13d7a8421a8017a712802053568e3c1d",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SGOV",
+      "address": "0x92fd66527192e3e61d4ddd13322aa222de86f9b5",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SHOP",
+      "address": "0xf53f66751b1eff985311b693531e3290f600c410",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SHY",
+      "address": "0xbe274710bf3d9567e1b290ef6a5f9f90ca016fd8",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SIMO",
+      "address": "0x77e655e37f4d913fb9540e0d541d824171a60e81",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SKHY",
+      "address": "0x84cab63bc87912e71ad199ff14a0ba45de68fef8",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SLS",
+      "address": "0x285b231728c7e4333799183df1094d775246a535",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SLV",
+      "address": "0x411efb0e7f985935daec3d4c3ebaea0d0ad7d89f",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SMCI",
+      "address": "0xc01aa1fecec0605b13bc84874ff7256c0f5f562a",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SMH",
+      "address": "0x072f979c2cac8e1391b0162a87fee094bf8744a0",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SMR",
+      "address": "0x1eebee7f74517e0279dfb09d25b0407beec3fdd6",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SNAP",
+      "address": "0xf6589f11bc40b669e584073f428b05562f568733",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SNDK",
+      "address": "0xb90a19ff0af67f7779aff50a882a9cff42446400",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SNOW",
+      "address": "0xba0cab75495255d0cb58e22b648bfed4ecd1f47e",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SOFI",
+      "address": "0x98e75885157c80992a8d41b696d8c9c6fb30a926",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SOUN",
+      "address": "0x6e3dfd9f7e1649baa14d25cac18c94d62db10a54",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SOXX",
+      "address": "0x75742c18bc1f1c5c5f448f4c9d9c6f66dafaaa38",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SPCX",
+      "address": "0x4a0e65a3eccec6dbe60ae065f2e7bb85fae35eea",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SPMO",
+      "address": "0xad622320e520de39e72d41ef07438c3fd3354875",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "SPY",
+      "address": "0x117cc2133c37b721f49de2a7a74833232b3b4c0c",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "TE",
+      "address": "0xb1969f6604ca1ae7a2cd3f1827876e914594ca2d",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "TEAM",
+      "address": "0x5b97476b922f3305131b8f0b9d333172e87f4aae",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "TEM",
+      "address": "0xb1cc0ec7db69cf43539119814df40071b9d61793",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "TER",
+      "address": "0x2778c5024d5ca2cdb0f8ead671ffc69963adcd9c",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "TSEM",
+      "address": "0x89776d4cd68193597a2fc132cfac1fde36ccea8a",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "TSLA",
+      "address": "0x322f0929c4625ed5bad873c95208d54e1c003b2d",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "TSM",
+      "address": "0x58ffe4a942d3885baa22d7520691f611ef09e7aa",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "TTD",
+      "address": "0x0b5fb4031cae9163db10b169ee72685f0edc8545",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "TTWO",
+      "address": "0x5e81213613b6b86eab4c6c50d718d34359459786",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "UMC",
+      "address": "0x0e6e67ba88e7b5d9b67636a215c76779b948de79",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "UNH",
+      "address": "0xcf364ea52787e289de6f32077834056e3e70d6a8",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "UPS",
+      "address": "0xf23250dac154d05bb671cb0d0ebef3c635c79ce2",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "USAR",
+      "address": "0xd917b029c761d264c6a312bbbcda868658ef86a6",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "USO",
+      "address": "0xa30fa36db767ad9ed3f7a60fc79526fb4d56d344",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "VICR",
+      "address": "0x6006ed4b2f94110851ff7509d97d034f0eed9226",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "VRT",
+      "address": "0xfa78c12e6488814a0262e4e802749a4a737d5fb7",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "VSAT",
+      "address": "0x26dcbfb34fc83cabd6990f449674efdc6097ff85",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "VST",
+      "address": "0x561e2a49212b7ccf47f2744ccb83e200722fadbc",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "VTI",
+      "address": "0x0594134df3f171a354d9c85ebd65b7a6148f6d09",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "WDAY",
+      "address": "0x82da4646242e1d962e96e932269dc644c94a9caa",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "WDC",
+      "address": "0xf52597345a8edf418bc4071b4a35112472277d3e",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "WULF",
+      "address": "0x348be1a8663f15edde5cdf8a96bb69078f7ab6fd",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "WYFI",
+      "address": "0x9e7abd3c9139d14e4c86dce0e455aab7a0c2fb3e",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "XLK",
+      "address": "0x15cd20759ce7f3285c29a319de2d1a2e098c6f43",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "XNDU",
+      "address": "0xa8eb3bccbf2017ee7cbfb652eb51cf2e1b153289",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "XOM",
+      "address": "0xf9b46d3d1b22199d4d1025a9cedb540a33f1a2d5",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "ZM",
+      "address": "0x44c4f142009036cf477ed2d09932051843137cf1",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    },
+    {
+      "symbol": "ZS",
+      "address": "0x7dc013eb55e436f30d7ed1afe4e36d6e45e3c3f7",
+      "beacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "apiBeacon": "0xe10b6f6b275de231345c20d14ab812db62151b00",
+      "proven": true,
+      "error": null
+    }
+  ]
+}
