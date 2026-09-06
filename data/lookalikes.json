@@ -484,6 +484,17 @@
     "firstSeenAt": "2026-09-04T21:20:23.059Z"
   },
   {
+    "address": "0x045532be5d1ef28591e3381e666c071ec3192574",
+    "symbol": "LLY",
+    "name": "lly",
+    "decimals": 18,
+    "claims": "LLY",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T15:16:49.328Z"
+  },
+  {
     "address": "0x047d3e4aad07566d9d5f114ec1e29a2eab6607e6",
     "symbol": "CBBTC",
     "name": "cbBTC​⁠",
@@ -825,6 +836,17 @@
     "firstSeenAt": "2026-09-04T18:36:46.285Z"
   },
   {
+    "address": "0x06c0cec90e928c8409aa356f4421cd8ddf51a403",
+    "symbol": "SMR",
+    "name": "samira",
+    "decimals": 18,
+    "claims": "SMR",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T14:45:22.883Z"
+  },
+  {
     "address": "0x06f11f180b4f4daf41dd87857af3992960e9cccc",
     "symbol": "ALAB",
     "name": "ALab",
@@ -834,6 +856,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:16.873Z"
+  },
+  {
+    "address": "0x06f51dd87d4068eb3f6fa1b34760c53c250a5631",
+    "symbol": "USDC",
+    "name": "USDC",
+    "decimals": 9,
+    "claims": "USDC",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T15:49:55.001Z"
   },
   {
     "address": "0x071af81d563c49222311c74516e540465efb429b",
@@ -1474,6 +1507,17 @@
     "firstSeenAt": "2026-09-04T13:07:18.166Z"
   },
   {
+    "address": "0x0c4e4f1f769d28d508a2fcc55e1952aa1aadac4c",
+    "symbol": "GLXY",
+    "name": "Galaxy · The Oracle",
+    "decimals": 18,
+    "claims": "GLXY",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:15.773Z"
+  },
+  {
     "address": "0x0c66cbd63352fe1822e2971668718a99e6250082",
     "symbol": "AXON",
     "name": "Axon",
@@ -1615,6 +1659,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.679Z"
+  },
+  {
+    "address": "0x0d42d93fe8ffe26ff19491808199d8bc469ac10b",
+    "symbol": "BABA",
+    "name": "Alibaba Tokenized Stock",
+    "decimals": 18,
+    "claims": "BABA",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:16.640Z"
   },
   {
     "address": "0x0d52f9505a600835d9bd3efb4b2508bd12c87712",
@@ -3245,6 +3300,28 @@
     "firstSeenAt": "2026-09-04T13:07:17.361Z"
   },
   {
+    "address": "0x1a213e65e189a98e98920d894fc74910c7c92301",
+    "symbol": "VTI",
+    "name": "TOTAL STONK MARKET",
+    "decimals": 18,
+    "claims": "VTI",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T18:06:53.508Z"
+  },
+  {
+    "address": "0x1a3b583b3cb7f8c1e85dd9cb8c536682b0821e18",
+    "symbol": "RIVN",
+    "name": "Rivian Autos",
+    "decimals": 18,
+    "claims": "RIVN",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:16.838Z"
+  },
+  {
     "address": "0x1a59dc3244b9a57228aa2bc761549b1b50b22a14",
     "symbol": "PLTR",
     "name": "PLTRChan",
@@ -4279,6 +4356,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.251Z"
   },
   {
+    "address": "0x21d31ae62c661202424eacc71bdc4b5ebd5d0980",
+    "symbol": "SNDK",
+    "name": "Sandisk Corporation",
+    "decimals": 18,
+    "claims": "SNDK",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T15:16:50.491Z"
+  },
+  {
     "address": "0x21e47fb687c11b849626b99e694e709d80dae701",
     "symbol": "RDDT",
     "name": "REDDIT",
@@ -4554,6 +4642,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.878Z"
   },
   {
+    "address": "0x23c20581f48b9f72dd46c8703adf898fb671ffad",
+    "symbol": "GLD",
+    "name": "WGOLD",
+    "decimals": 18,
+    "claims": "GLD",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T18:50:59.136Z"
+  },
+  {
     "address": "0x240bbc8a97c77f295a61206bc48fdc30ea847777",
     "symbol": "USDC",
     "name": "USD Coin",
@@ -4750,6 +4849,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:18.115Z"
+  },
+  {
+    "address": "0x263011fd0600ce1ba180bccc40b2f33837a81e18",
+    "symbol": "PLTR",
+    "name": "PlsLetThisRip",
+    "decimals": 18,
+    "claims": "PLTR",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T14:45:21.692Z"
   },
   {
     "address": "0x263e997a39701475fac2eaebdb20ba85ba447777",
@@ -5179,6 +5289,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:18.259Z"
+  },
+  {
+    "address": "0x2a393b52ae38e702c26e41dba5d0446aee40cce8",
+    "symbol": "TSLA",
+    "name": "Tesla Inc",
+    "decimals": 18,
+    "claims": "TSLA",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:16.902Z"
   },
   {
     "address": "0x2a5eaef2facdeb18615c69dcf5ac96df30fae4f3",
@@ -5641,6 +5762,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.925Z"
+  },
+  {
+    "address": "0x2eda931388053b4d2c65a8aab28bcc17ea83f84d",
+    "symbol": "LLY",
+    "name": "Level Leap Yourself",
+    "decimals": 18,
+    "claims": "LLY",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:15.862Z"
   },
   {
     "address": "0x2ef4bc56fd5a304576fb19bcb52861e8e0eaee16",
@@ -6620,6 +6752,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:16.956Z"
+  },
+  {
+    "address": "0x35ce1b3b7b8bf85ebfad7cf582ac0f7260ad1e18",
+    "symbol": "MSFT",
+    "name": "Microsoft",
+    "decimals": 18,
+    "claims": "MSFT",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T14:45:21.781Z"
   },
   {
     "address": "0x35ee8709225c9e75c61d95a721020769fb87ab4f",
@@ -7909,6 +8052,17 @@
     "firstSeenAt": "2026-09-04T13:07:18.328Z"
   },
   {
+    "address": "0x4078930fb73cff7c75383582a194bbc02219b49b",
+    "symbol": "LMT",
+    "name": "Lootminer",
+    "decimals": 18,
+    "claims": "LMT",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:15.966Z"
+  },
+  {
     "address": "0x40a01c11fd083d7596884a3754e4092a7612594b",
     "symbol": "PLTR",
     "name": "PelosiLigmaTrumpRetards",
@@ -8226,6 +8380,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:16.795Z"
+  },
+  {
+    "address": "0x4387370ed73f0617041d291a17a580dda7cb7c9b",
+    "symbol": "IREN",
+    "name": "IREN Limited",
+    "decimals": 18,
+    "claims": "IREN",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:16.578Z"
   },
   {
     "address": "0x4389b2269c65e8a25d31f2656cdc51107e62f317",
@@ -10923,6 +11088,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.116Z"
   },
   {
+    "address": "0x5c833b53db35f7e5bd52fc55487bfe8355929893",
+    "symbol": "LLY",
+    "name": "Level Leap Yourself",
+    "decimals": 18,
+    "claims": "LLY",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T14:45:21.642Z"
+  },
+  {
     "address": "0x5c89bf775c5788c6b61442691fa832a0ffc43b8c",
     "symbol": "MRNA",
     "name": "Moderna Inc",
@@ -11044,6 +11220,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.225Z"
   },
   {
+    "address": "0x5dddf21b9d4f38e500c829c6337ba5a5fc6fd9c0",
+    "symbol": "BABA",
+    "name": "Alibaba Tokenized Stock",
+    "decimals": 18,
+    "claims": "BABA",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:16.637Z"
+  },
+  {
     "address": "0x5de4a8eb91e566a3ced7d55dbb6c27e1b0c9bba3",
     "symbol": "USAR",
     "name": "Usa Rare Earth",
@@ -11154,6 +11341,17 @@
     "firstSeenAt": "2026-09-04T13:07:18.191Z"
   },
   {
+    "address": "0x5ec9be8b653eb174b7df88475d74e3b503207777",
+    "symbol": "PFE",
+    "name": "Pumps Fix Everything",
+    "decimals": 18,
+    "claims": "PFE",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T18:06:53.778Z"
+  },
+  {
     "address": "0x5ecb48f6c88ca32251e42d3ff036a1bf16f21d44",
     "symbol": "AVGO",
     "name": "Toplica Milosevic’s",
@@ -11187,6 +11385,28 @@
     "firstSeenAt": "2026-09-04T13:07:17.660Z"
   },
   {
+    "address": "0x5f0bb45d99ddd82097fc08b5d8089f29a994bbde",
+    "symbol": "AMKR",
+    "name": "Amkor Technology • Robinhood Token",
+    "decimals": 18,
+    "claims": "AMKR",
+    "kind": "impostor",
+    "exactName": true,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:16.635Z"
+  },
+  {
+    "address": "0x5f0c03253a7c00197bd86ffe5dcc697b86b7eb53",
+    "symbol": "ADBE",
+    "name": "Adobe • Robinhood Token",
+    "decimals": 18,
+    "claims": "ADBE",
+    "kind": "impostor",
+    "exactName": true,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:17.124Z"
+  },
+  {
     "address": "0x5f13dd0c2cf50bb79cee5e3f7467daf4ec917777",
     "symbol": "SKHY",
     "name": "SK Hynix Inc",
@@ -11198,6 +11418,28 @@
     "firstSeenAt": "2026-09-04T13:07:17.300Z"
   },
   {
+    "address": "0x5f1b63146f1458e1dc0b0eef4b75762cc22e3189",
+    "symbol": "AMAT",
+    "name": "Applied Materials • Robinhood Token",
+    "decimals": 18,
+    "claims": "AMAT",
+    "kind": "impostor",
+    "exactName": true,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:15.810Z"
+  },
+  {
+    "address": "0x5f2f0c0a7bf59e2bf9d0fa38d9bd11712afdf2c2",
+    "symbol": "VST",
+    "name": "Vistra • Robinhood Token",
+    "decimals": 18,
+    "claims": "VST",
+    "kind": "impostor",
+    "exactName": true,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T18:41:55.273Z"
+  },
+  {
     "address": "0x5f3ec79db816041a2cd17550ecc6093f9b54f2d3",
     "symbol": "JNJ",
     "name": "Johnson N Johnson",
@@ -11207,6 +11449,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.814Z"
+  },
+  {
+    "address": "0x5f3ff55c6b212b6f74e88d52d2867419072c641f",
+    "symbol": "ABCL",
+    "name": "Abcellera Biologics • Robinhood Token",
+    "decimals": 18,
+    "claims": "ABCL",
+    "kind": "impostor",
+    "exactName": true,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:15.789Z"
   },
   {
     "address": "0x5f407005439674e444a7186f23a378242b3bf316",
@@ -11231,6 +11484,17 @@
     "firstSeenAt": "2026-09-04T13:07:18.248Z"
   },
   {
+    "address": "0x5f5cbce41d6d8334c8e04fc30a3672c950ee91f6",
+    "symbol": "AMBA",
+    "name": "Ambarella • Robinhood Token",
+    "decimals": 18,
+    "claims": "AMBA",
+    "kind": "impostor",
+    "exactName": true,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:16.451Z"
+  },
+  {
     "address": "0x5f6258b2c33d65d41174abe8386c6d43ca012fff",
     "symbol": "MSFT",
     "name": "MicroSoft",
@@ -11240,6 +11504,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.221Z"
+  },
+  {
+    "address": "0x5f68a0803b2eca4b08d13d0d2bb1698d4762728c",
+    "symbol": "AEIS",
+    "name": "Advanced Energy • Robinhood Token",
+    "decimals": 18,
+    "claims": "AEIS",
+    "kind": "impostor",
+    "exactName": true,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:15.772Z"
   },
   {
     "address": "0x5f6c800c978ae8b2acbb7e7b0db5cba79cf12697",
@@ -11286,6 +11561,28 @@
     "firstSeenAt": "2026-09-04T13:07:18.422Z"
   },
   {
+    "address": "0x5f881715a7e607f42412cffc5ac7bbd50a624cff",
+    "symbol": "ANET",
+    "name": "Arista • Robinhood Token",
+    "decimals": 18,
+    "claims": "ANET",
+    "kind": "impostor",
+    "exactName": true,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:17.020Z"
+  },
+  {
+    "address": "0x5f907800909427b3c7f0e9b8a8f2aa21569308f9",
+    "symbol": "AAOI",
+    "name": "Applied Optoelectronics • Robinhood Token",
+    "decimals": 18,
+    "claims": "AAOI",
+    "kind": "impostor",
+    "exactName": true,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:15.650Z"
+  },
+  {
     "address": "0x5f9fe489c68330052d162744f17457854ec58476",
     "symbol": "ADBE",
     "name": "Adobe",
@@ -11295,6 +11592,28 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.358Z"
+  },
+  {
+    "address": "0x5faae5ceca425cc145d5212a82fdbf2efd9d4e61",
+    "symbol": "AEHR",
+    "name": "Aehr • Robinhood Token",
+    "decimals": 18,
+    "claims": "AEHR",
+    "kind": "impostor",
+    "exactName": true,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:15.484Z"
+  },
+  {
+    "address": "0x5fbf10af7df56063db7b8e7de37ab370aaaffb72",
+    "symbol": "AVGO",
+    "name": "Broadcom • Robinhood Token",
+    "decimals": 18,
+    "claims": "AVGO",
+    "kind": "impostor",
+    "exactName": true,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T18:41:56.736Z"
   },
   {
     "address": "0x5fdf5d187d0009f0305973cc4bc4ea711d4e8dab",
@@ -11691,6 +12010,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.376Z"
+  },
+  {
+    "address": "0x63a05a63d913c9bfcf27f67eec2b6f77f6436b14",
+    "symbol": "MSTR",
+    "name": "MicroStrategy",
+    "decimals": 18,
+    "claims": "MSTR",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:17.053Z"
   },
   {
     "address": "0x63c0de0ea478d5944aa1a46b1ddd730b1f871501",
@@ -12540,6 +12870,17 @@
     "firstSeenAt": "2026-09-04T13:07:18.045Z"
   },
   {
+    "address": "0x6aaf29dab2fb20f1c2ec29f9605499ab0c91d4b6",
+    "symbol": "DELL",
+    "name": "A",
+    "decimals": 18,
+    "claims": "DELL",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T14:45:21.344Z"
+  },
+  {
     "address": "0x6ab9acda9cc2daf0ab778e9a8cffb4f499191e18",
     "symbol": "AMZN",
     "name": "AMZN420",
@@ -12571,6 +12912,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.646Z"
+  },
+  {
+    "address": "0x6affb632b002cca4d2894f70595857d1e9b82594",
+    "symbol": "AMZN",
+    "name": "ARISING MEME SEASON",
+    "decimals": 18,
+    "claims": "AMZN",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T13:15:30.650Z"
   },
   {
     "address": "0x6b074ba087e36e3828cbc4836e620bca7c12918e",
@@ -13277,6 +13629,17 @@
     "firstSeenAt": "2026-09-04T13:07:16.934Z"
   },
   {
+    "address": "0x7164210dcb82d471ce281b0e9da1704067d6c61d",
+    "symbol": "LLY",
+    "name": "Level Leap Yourself",
+    "decimals": 18,
+    "claims": "LLY",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T18:06:53.022Z"
+  },
+  {
     "address": "0x71774d034f99c8296fb0b021af86808d7876312b",
     "symbol": "SNDK",
     "name": "Sandisk",
@@ -13286,6 +13649,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:18.121Z"
+  },
+  {
+    "address": "0x719e13ee275e21cc19e1fd96860527e81c316f05",
+    "symbol": "SLV",
+    "name": "Sleeve Markets",
+    "decimals": 18,
+    "claims": "SLV",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:16.938Z"
   },
   {
     "address": "0x71c77e1570fa2f6357ec10ac840947282f76bba3",
@@ -13352,6 +13726,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:18.398Z"
+  },
+  {
+    "address": "0x72453881b2d67b7a0652d710fc574e22b3adf97d",
+    "symbol": "LLY",
+    "name": "Level Leap Yourself",
+    "decimals": 18,
+    "claims": "LLY",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T18:06:53.023Z"
   },
   {
     "address": "0x7288972a926af2f2b1dc00f17cf122c58862c359",
@@ -14135,6 +14520,17 @@
     "firstSeenAt": "2026-09-04T13:07:16.860Z"
   },
   {
+    "address": "0x7a6568f13d94598975fe9076d217bc1323d1ddb6",
+    "symbol": "LULU",
+    "name": "LULU THE CAT",
+    "decimals": 18,
+    "claims": "LULU",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:16.056Z"
+  },
+  {
     "address": "0x7a75432e084d27f7415694a2c8a98c16da7d1b66",
     "symbol": "SNDK",
     "name": "Sandisk",
@@ -14718,6 +15114,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.211Z"
   },
   {
+    "address": "0x7f70509c104f41f49ffabf839b7bfb359cd4a69c",
+    "symbol": "CRWD",
+    "name": "Channel file291",
+    "decimals": 18,
+    "claims": "CRWD",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T18:06:53.418Z"
+  },
+  {
     "address": "0x7f7865a42e154b08b6d5a64f5d41994ab2bdfba3",
     "symbol": "ASML",
     "name": "ASML",
@@ -14771,6 +15178,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-05T05:45:48.099Z"
+  },
+  {
+    "address": "0x8014e87fb9d62f698ec85ba08d6b702d9ec977c5",
+    "symbol": "USDC",
+    "name": "USDC",
+    "decimals": 18,
+    "claims": "USDC",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T14:51:30.475Z"
   },
   {
     "address": "0x802156ae182fac06a05a6aadab321bad54861e18",
@@ -16049,6 +16467,17 @@
     "firstSeenAt": "2026-09-04T13:07:18.070Z"
   },
   {
+    "address": "0x8cb4604b7e139edc49f73d51d9820c5b16263f17",
+    "symbol": "TSLA",
+    "name": "Turbo Salvia Laced Ape",
+    "decimals": 18,
+    "claims": "TSLA",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T18:06:53.485Z"
+  },
+  {
     "address": "0x8cdfde15545a989d9633cdcc36a39e7f8cddd1f3",
     "symbol": "JNJ",
     "name": "Just Never Jeet",
@@ -16619,6 +17048,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:18.284Z"
+  },
+  {
+    "address": "0x90b2e9711217a5bee6ef5e4e5966741a607f866b",
+    "symbol": "LLY",
+    "name": "Level Leap Yourself",
+    "decimals": 18,
+    "claims": "LLY",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:15.872Z"
   },
   {
     "address": "0x90bcd8cdc1bb4ff876ec4c8ae3ca34f885949426",
@@ -17224,6 +17664,17 @@
     "exactName": true,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.692Z"
+  },
+  {
+    "address": "0x960d816ade17f56e6cfe293d047c2a16f14e122a",
+    "symbol": "IBM",
+    "name": "I Buy Memes",
+    "decimals": 18,
+    "claims": "IBM",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:16.431Z"
   },
   {
     "address": "0x966229dc765083f9c92b033cd2ddaec96dfe918e",
@@ -19635,6 +20086,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.940Z"
   },
   {
+    "address": "0xaae728102c3b4a9947cd07c41bf3d3013a94cf96",
+    "symbol": "LLY",
+    "name": "Level Leap Yourself",
+    "decimals": 18,
+    "claims": "LLY",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T14:45:21.643Z"
+  },
+  {
     "address": "0xaaefdbb2fec2c493f0cda097157032e204b5a829",
     "symbol": "RDDT",
     "name": "Reddit Stock",
@@ -19710,6 +20172,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.831Z"
+  },
+  {
+    "address": "0xabafa83ac31d472d43754d0200f210fd302b2401",
+    "symbol": "AMBA",
+    "name": "All Meme Bullish Again",
+    "decimals": 18,
+    "claims": "AMBA",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T14:45:22.599Z"
   },
   {
     "address": "0xabb8aeade9e2dc5e7b8e30bd31f236bc83be0813",
@@ -20273,6 +20746,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.477Z"
   },
   {
+    "address": "0xb131f502453ac7d907a0330726c1a0d11ba41e18",
+    "symbol": "ANET",
+    "name": "A Network",
+    "decimals": 18,
+    "claims": "ANET",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:17.021Z"
+  },
+  {
     "address": "0xb14a12a48a13813a1b85b0957b9068faba421e18",
     "symbol": "TTWO",
     "name": "2 Thick Wet 1s",
@@ -20590,6 +21074,28 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:18.024Z"
+  },
+  {
+    "address": "0xb42ca0ba88dd6239eddf86723b9aa5bba4571e18",
+    "symbol": "LMT",
+    "name": "SKUNKWORKS",
+    "decimals": 18,
+    "claims": "LMT",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:15.968Z"
+  },
+  {
+    "address": "0xb431144b07d57d152f8a632e4a9fa83d3e2ec8a1",
+    "symbol": "ORCL",
+    "name": "OracleSignal",
+    "decimals": 18,
+    "claims": "ORCL",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T18:06:53.568Z"
   },
   {
     "address": "0xb443cd5d6a04c8ebc90e2765a034a96625740d9f",
@@ -21769,6 +22275,17 @@
     "firstSeenAt": "2026-09-04T13:07:18.224Z"
   },
   {
+    "address": "0xbe0af5ef8fe73ae08dec8ef73e81ae3775f9a48a",
+    "symbol": "WYFI",
+    "name": "We Yield For Infinity",
+    "decimals": 18,
+    "claims": "WYFI",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:16.263Z"
+  },
+  {
     "address": "0xbe137b703542b15029d76c1416107dfe1f976bfa",
     "symbol": "GLD",
     "name": "GLD",
@@ -22471,6 +22988,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-05T11:10:25.611Z"
+  },
+  {
+    "address": "0xc511ef746acdfd56944d06c7c79439188782ba49",
+    "symbol": "SLS",
+    "name": "Summer's Last Soldier",
+    "decimals": 18,
+    "claims": "SLS",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:16.301Z"
   },
   {
     "address": "0xc522f5b322201c70238173bcbea89200f0fbc3c2",
@@ -23978,6 +24506,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.905Z"
+  },
+  {
+    "address": "0xd18f5e73ec5e2d0b18ebe97426dc5edc2c887715",
+    "symbol": "TSLA",
+    "name": "memestock",
+    "decimals": 18,
+    "claims": "TSLA",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T18:06:53.469Z"
   },
   {
     "address": "0xd1aae8fa35d7faadb3dfe5a0152fcbaa1df0d140",
@@ -25663,6 +26202,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.584Z"
   },
   {
+    "address": "0xe0c995a676ebd63a5a81d832fb0f4bfd9f092b5a",
+    "symbol": "NBIS",
+    "name": "NBIS",
+    "decimals": 18,
+    "claims": "NBIS",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:16.706Z"
+  },
+  {
     "address": "0xe0d7526a9280d5eba5b088dbba712f1277ae4fca",
     "symbol": "JOBY",
     "name": "Make Joby Famous",
@@ -25705,6 +26255,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.277Z"
+  },
+  {
+    "address": "0xe12d659a1ce03c38ab03ae0c386284bdc0203e06",
+    "symbol": "AMD",
+    "name": "Advanced Meme Dynamics",
+    "decimals": 18,
+    "claims": "AMD",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:16.247Z"
   },
   {
     "address": "0xe1357305da73d563e1796efd5861cc33fe5b9f36",
@@ -25947,6 +26508,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.209Z"
+  },
+  {
+    "address": "0xe4565ae14273af429ee127f6dae4f617fa057777",
+    "symbol": "USDT",
+    "name": "Tether USD",
+    "decimals": 18,
+    "claims": "USDT",
+    "kind": "unverified",
+    "exactName": true,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T18:06:52.927Z"
   },
   {
     "address": "0xe458c9517e0b7aaa7f98d4da99813f6f749f7ba3",
@@ -26730,6 +27302,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.907Z"
   },
   {
+    "address": "0xeafe23b9f5c20bb41f5fab10dcbb2a066288461e",
+    "symbol": "SMH",
+    "name": "smh",
+    "decimals": 18,
+    "claims": "SMH",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T15:49:55.914Z"
+  },
+  {
     "address": "0xeafe6a92adc248dfa60720cfdf2d8c7d8eb6e092",
     "symbol": "MSFT",
     "name": "Microsoft",
@@ -27234,6 +27817,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.523Z"
+  },
+  {
+    "address": "0xeeedc0dbd55ec9f671405ad9f474ad9a1ef45881",
+    "symbol": "MSFT",
+    "name": "Microsoft",
+    "decimals": 18,
+    "claims": "MSFT",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T14:45:21.763Z"
   },
   {
     "address": "0xeef5326455474c14f55da6725f81500bcae761d3",
@@ -27885,6 +28479,17 @@
     "firstSeenAt": "2026-09-05T11:28:20.982Z"
   },
   {
+    "address": "0xf45212618a2ca9ace4325553cdb3fab5676e1e18",
+    "symbol": "JNJ",
+    "name": "JohnsonNJohnson",
+    "decimals": 18,
+    "claims": "JNJ",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:16.347Z"
+  },
+  {
     "address": "0xf472a9543836c4440173b9971d421aceb40c7777",
     "symbol": "NBIS",
     "name": "Nebius Group NV",
@@ -28512,6 +29117,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.967Z"
   },
   {
+    "address": "0xfb3ba702186d9020af3b0782ead4c27a50db8d4c",
+    "symbol": "SMR",
+    "name": "smart",
+    "decimals": 18,
+    "claims": "SMR",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-06T01:24:16.721Z"
+  },
+  {
     "address": "0xfb4c8fb63811751a4ce5c2e983d1dcf5d157987b",
     "symbol": "RKLB",
     "name": "Toplica Milosevic’s",
@@ -28543,6 +29159,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:18.003Z"
+  },
+  {
+    "address": "0xfbb366a866e63ae02451f983ee416e02f1231e18",
+    "symbol": "NFLX",
+    "name": "HOODFLIX",
+    "decimals": 18,
+    "claims": "NFLX",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-05T18:06:53.545Z"
   },
   {
     "address": "0xfbc0deda6b408d284d2e57254a00270546e2cccc",
