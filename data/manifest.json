@@ -1,17 +1,14 @@
 {
-  "fetchedAt": "2026-09-08T06:33:31.965Z",
+  "fetchedAt": "2026-09-08T18:27:17.753Z",
   "api": "https://fletch.now/api/v1",
   "chainId": 4663,
   "status": {
-    "verdict": "degraded",
-    "summary": "9 of 31 jobs are not current (failing: canonical, lookalikes; late: chain-health, supply-events, multiplier-events, dex-tokens; stalled: transfer-ledger, dex-pools-v3, bridge-flows).",
-    "checkedAt": "2026-09-08T06:33:32.748Z",
-    "headBlock": "57472039",
-    "headReadAt": "2026-09-08T06:25:42.391Z",
-    "failingJobs": [
-      "canonical",
-      "lookalikes"
-    ]
+    "verdict": "live",
+    "summary": "Every job ran on time; transfer-ledger and dex-tokens and dex-swaps still catching up.",
+    "checkedAt": "2026-09-08T18:27:18.073Z",
+    "headBlock": "57903670",
+    "headReadAt": "2026-09-08T18:27:08.882Z",
+    "failingJobs": []
   },
   "assets": {
     "assets": 207,
@@ -24,8 +21,8 @@
     }
   },
   "lookalikes": {
-    "rows": 2898,
-    "pages": 3,
+    "rows": 3165,
+    "pages": 4,
     "complete": true
   },
   "controlPlane": {
@@ -34,9 +31,9 @@
     "complete": true
   },
   "events": {
-    "appended": 65,
-    "total": 791,
-    "cursor": "2026-09-08T05:33:44.024Z|ev_e4d4a43c9e09eeff55156aa4",
+    "appended": 125,
+    "total": 916,
+    "cursor": "2026-09-08T18:07:30.784Z|ev_ef6648e1c9e8a4d783a8a715",
     "complete": true
   }
 }
