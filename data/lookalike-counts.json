@@ -42,6 +42,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x006d84774d307622a4767f4c806040fe7e25c8fc",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T12:15:41.554Z"
+  },
+  {
     "address": "0x00924bf9eb31943013e149435a76fa4d06c87777",
     "holders": 134,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -208,6 +214,12 @@
     "holders": 194,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x02ce52d5e406e9f424d6dc919a5a0ef91979cba3",
+    "holders": null,
+    "totalSupplyRaw": "100000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T01:59:49.225Z"
   },
   {
     "address": "0x02d7234f6ea5e8b8902ac1b19a510eedd373e682",
@@ -426,6 +438,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x0619d9664a54989a33e9c92feb8623df6f8abba3",
+    "holders": null,
+    "totalSupplyRaw": "100000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T16:20:23.251Z"
+  },
+  {
     "address": "0x0637a13819bdfa453de160753d9dff460901d840",
     "holders": 5,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -640,6 +658,12 @@
     "holders": 12,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x0966d8c1818e14200facdb44ec13ba9cd33cef5d",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T04:06:08.705Z"
   },
   {
     "address": "0x0968415da7603421d75af4cdfb704997073b7777",
@@ -1026,6 +1050,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x0e790fe4e140d2e81ff003f27aab8abd15cc3b03",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T23:39:48.573Z"
+  },
+  {
     "address": "0x0e9a7f5756c42aa8ea02479f9cad4f7fae835f84",
     "holders": 43,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -1098,6 +1128,12 @@
     "lastSeenAt": "2026-09-06T08:25:51.925Z"
   },
   {
+    "address": "0x0f72804f3d474660ba23cca02896e787f9aeb05b",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T00:02:51.916Z"
+  },
+  {
     "address": "0x0f997e93ed86e9fb0e7e5cec4ff07f9e0ce5b6d8",
     "holders": 2,
     "totalSupplyRaw": "100000000000000000000000000000",
@@ -1156,6 +1192,12 @@
     "holders": 3195,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x10784a805d7ab51a7ff4e88eb43f92a4b8122bbb",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T18:17:59.712Z"
   },
   {
     "address": "0x1086d595fde143a188d274ede257232e7e66cccc",
@@ -1414,6 +1456,12 @@
     "holders": 26,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x1489e67328ab5d9097bed97a9221f91dcfb117bb",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T20:00:23.780Z"
   },
   {
     "address": "0x14996223b1498907773c450a298605efd92a7438",
@@ -1962,6 +2010,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x1b53cce679bf754e9d4c9ea695b1abf3fb141e18",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T16:20:23.251Z"
+  },
+  {
     "address": "0x1b77134b9a6799377c6f8378baa58989d2d91e18",
     "holders": 21,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -2448,6 +2502,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x21b59c24bc02154409256fe229b9c7b63abdcb33",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T19:50:43.592Z"
+  },
+  {
     "address": "0x21b7e0453ed9a79a86915381464e4e45f7063707",
     "holders": 2,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -2544,6 +2604,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x22ac3fb6571d871f6e7ae555fd9baae12932bba3",
+    "holders": null,
+    "totalSupplyRaw": "100000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T02:47:54.720Z"
+  },
+  {
     "address": "0x22ba7aaa989f675a7e2fba2d29f35f628a111e18",
     "holders": 2,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -2566,6 +2632,12 @@
     "holders": 7,
     "totalSupplyRaw": "545000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x22f040b3db68ca393a7e28168f071c6d48b88b03",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T01:35:06.606Z"
   },
   {
     "address": "0x22f116fd2154f2008bb794882689a5d7832759b7",
@@ -3384,6 +3456,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x2fe899c71e902de56be50267fb0e736536a82282",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T05:00:39.217Z"
+  },
+  {
     "address": "0x2feba8802b1519b20b9a6172593509aba16cce01",
     "holders": 1,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -3486,6 +3564,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x31192db8611bb50f3519faf6d5bd0ef820a8c2d5",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T20:00:23.780Z"
+  },
+  {
     "address": "0x31234238a7d1a0f6577884ba31e06952d903c3e3",
     "holders": 2,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -3546,6 +3630,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x321a5d69132b93ecfcfa92e7f7346a47ec924b03",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T04:06:08.705Z"
+  },
+  {
     "address": "0x323db8ec9d558d3299206f54576059308fa61522",
     "holders": 12,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -3586,6 +3676,12 @@
     "holders": 5,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T01:24:15.366Z"
+  },
+  {
+    "address": "0x328dd83bbcda1623ec7bc62c6a04e12aa5a39c58",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T01:35:06.606Z"
   },
   {
     "address": "0x32c218bf1ee3ad484da8909dbb16745e2a6de984",
@@ -3766,6 +3862,12 @@
     "holders": 99,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x3534be5ba9d212ae1ce730ffbdd3fd5680d7dc44",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T14:59:48.863Z"
   },
   {
     "address": "0x354cc71682dbf98b6e7e0246195da9c622e5dba3",
@@ -4044,6 +4146,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x38da1e3b1a9c35a1f098124a155de0cbc14158fe",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T17:32:10.618Z"
+  },
+  {
     "address": "0x38ed49840ccc66acd887bb9211f66ed4dbbf8201",
     "holders": 2,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -4084,6 +4192,12 @@
     "holders": 1,
     "totalSupplyRaw": "25445000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x397020066e608d34b0ccf0403e70f5027d3b3dec",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T01:59:49.225Z"
   },
   {
     "address": "0x3992e15ac3166746c244d66e33507fedc27c304e",
@@ -4150,6 +4264,12 @@
     "holders": null,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T23:41:47.443Z"
+  },
+  {
+    "address": "0x3ab7f1bce5df894c49f6d178ed78169b336a6221",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T05:00:39.217Z"
   },
   {
     "address": "0x3ac7fac6e3fe550bc5299f5cf11384b21ab91e18",
@@ -5142,6 +5262,12 @@
     "lastSeenAt": "2026-09-06T08:25:51.925Z"
   },
   {
+    "address": "0x49d9face26a98c5e124f31fdcf387884fa659ec8",
+    "holders": null,
+    "totalSupplyRaw": "263293920000000000000000000",
+    "lastSeenAt": "2026-09-07T14:59:48.863Z"
+  },
+  {
     "address": "0x49e450379a90f53875f8ae7cee1c4a2ad0739ba3",
     "holders": 2,
     "totalSupplyRaw": "100000000000000000000000000000",
@@ -5170,6 +5296,12 @@
     "holders": 3,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x4ab16f2fa5b2319f04c3eec65221d2356ec3c4a7",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T13:52:43.963Z"
   },
   {
     "address": "0x4ab1dadfac3fb3829b5a582bcd03d34f28780693",
@@ -5364,6 +5496,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x4e023983497d7a2a44ef487b74d7c350b3d868c2",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T04:06:08.705Z"
+  },
+  {
     "address": "0x4e069ec87b4d866ffab3b754c480f1be2266b09a",
     "holders": 1116,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -5538,6 +5676,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x5111603e6451c677c22d3d06de6b1ffa032a3fa9",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T22:59:03.753Z"
+  },
+  {
     "address": "0x511b35a469f972da8db122d6dc28ca4d9bb72b07",
     "holders": 60,
     "totalSupplyRaw": "100000000000000000000000000000",
@@ -5590,6 +5734,12 @@
     "holders": 2,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x51dd5388123f3a5c609a60dc5db4f45c99969011",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T18:17:59.712Z"
   },
   {
     "address": "0x520367d52808d5e2113f131f3da4e670b0b37b9c",
@@ -6024,6 +6174,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x59a5a78db32425dd5a969180843982df1d8f8b03",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T22:59:03.753Z"
+  },
+  {
     "address": "0x59a74f82b0c3f59661db72a47db1fb2084c49ba3",
     "holders": 2,
     "totalSupplyRaw": "100000000000000000000000000000",
@@ -6040,6 +6196,12 @@
     "holders": 177,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x59b9e31f6c1e0a9fdbb267dbf796dd6ffe528ba3",
+    "holders": null,
+    "totalSupplyRaw": "100000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T02:15:50.926Z"
   },
   {
     "address": "0x59beeeadabbf9253ece55745cdde09d0dadf4948",
@@ -6246,6 +6408,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x5cabc65e1023c7ea273fbe14543fb7ea0c3c59a5",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T20:00:23.780Z"
+  },
+  {
     "address": "0x5cb4bf7d5dd526fc177ab7612ac355a0257eee16",
     "holders": 167,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -6364,6 +6532,12 @@
     "holders": 2,
     "totalSupplyRaw": "100000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x5eb6858b8708fad139e50368a13d41e228eefb76",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T05:42:29.429Z"
   },
   {
     "address": "0x5ec9be8b653eb174b7df88475d74e3b503207777",
@@ -6660,6 +6834,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x61cae06771bdf82ff674b3cde2906a4ed4bbe8a0",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T01:35:06.606Z"
+  },
+  {
     "address": "0x61cfad076bd2c092ad535229d171a9355104079f",
     "holders": 16,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -6694,6 +6874,12 @@
     "holders": 2,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x61fb3456b8f5295c10fa1a41857fd428a5a02725",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T20:43:35.761Z"
   },
   {
     "address": "0x6225a833841ddce27e8265e08f50a6244a684fde",
@@ -6736,6 +6922,18 @@
     "holders": 7,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x6285082b2686987d602eb8d7cda5c7b77ee9088b",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T21:37:00.995Z"
+  },
+  {
+    "address": "0x62f114496f915f2bf891a05b834118fc4f769bf9",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T16:20:23.251Z"
   },
   {
     "address": "0x62f19cd8bdc07ff050444d6042bcd4343e6624b9",
@@ -6790,6 +6988,12 @@
     "holders": 4,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x63e948ca871523b426520d8f0d9e80901d5f32a9",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T17:32:10.618Z"
   },
   {
     "address": "0x63f0235b31320cdc9e87bf2e104601dd99aa0973",
@@ -6850,6 +7054,12 @@
     "holders": 2,
     "totalSupplyRaw": "100000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x64ddd139aa69a3844a539b08801fe261875b93f1",
+    "holders": null,
+    "totalSupplyRaw": "10000000000000000000000000",
+    "lastSeenAt": "2026-09-07T12:38:21.855Z"
   },
   {
     "address": "0x64e94a1f476aa4c89700c0f090792cc55bd50c54",
@@ -7048,6 +7258,12 @@
     "holders": 791,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x683453ff1c441a56451d1a22a1c3218c9dc58cf7",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T07:08:38.410Z"
   },
   {
     "address": "0x6859a75565fff6305a077b2f4b4962facaa09c3d",
@@ -7410,6 +7626,12 @@
     "lastSeenAt": "2026-09-06T21:28:38.234Z"
   },
   {
+    "address": "0x6d51a6da84837cf28f6a2bc179142e027567db03",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T20:43:35.761Z"
+  },
+  {
     "address": "0x6d6185bc697275833694bacee6eac1bb92742981",
     "holders": 4,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -7566,6 +7788,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x6f8547b45e1961ad20a2cf1b1c86690aa4b63d1d",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T17:32:10.618Z"
+  },
+  {
     "address": "0x6f888dcf08fdd271689926f38754f454186655f9",
     "holders": 1,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -7600,6 +7828,12 @@
     "holders": 3,
     "totalSupplyRaw": "100000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x70270a167afc5f44a4737cf56907be1adacea8b9",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T03:21:29.982Z"
   },
   {
     "address": "0x7047c15dd6a86ccf308c1c6a1111fafa7b9d3b87",
@@ -7782,6 +8016,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x734ce99cb92a6763e44d13b3f4aeae9b26434b03",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T23:39:48.573Z"
+  },
+  {
     "address": "0x734fb0ce5a46db6f2e47cfc090b5015c4dc36601",
     "holders": 2,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -7846,6 +8086,12 @@
     "holders": 1,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x74bcc59bbed0e1fc0e8e5b8a60df08583da058ac",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T21:21:34.027Z"
   },
   {
     "address": "0x74ceac4e30a8a693f900e43e6cbbc4919aad8d60",
@@ -7962,6 +8208,18 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x768242137abd66f233c0da3682e0186453073f99",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T05:00:39.217Z"
+  },
+  {
+    "address": "0x769fbbd4435594f166aa845e87897ed720b462f9",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T19:26:15.337Z"
+  },
+  {
     "address": "0x76d73e77e4e6ae03d46118de48a931d7f05d1e18",
     "holders": 1627,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -7978,6 +8236,12 @@
     "holders": 3,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x76ed80ab0004c45100b117420f6373adb18b4663",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T05:00:39.217Z"
   },
   {
     "address": "0x77008cccefc8da8dfbf76edbaea0b680fdcf302f",
@@ -8040,6 +8304,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x7839943eddd5b683cbbe9f417a5cee3bfb3c775a",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T19:26:15.337Z"
+  },
+  {
     "address": "0x78566faccd49818494a0f2c331152eea07b60001",
     "holders": 2,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -8050,6 +8320,12 @@
     "holders": 1,
     "totalSupplyRaw": "100000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x787b81d182b5d1dbcd4299456fb0e0292d52aada",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T07:08:38.410Z"
   },
   {
     "address": "0x787d3941ab1aa3cd7d6269abf441be5e5ebb3e05",
@@ -8134,6 +8410,12 @@
     "holders": 6,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x79ce8809fb1a088534842c763bf453fbe36c1585",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T09:23:48.672Z"
   },
   {
     "address": "0x7a251b54f997730d275a1b530fb544aea6ba9361",
@@ -8248,6 +8530,12 @@
     "holders": 3,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-04T14:43:18.015Z"
+  },
+  {
+    "address": "0x7b35dda56afd6db7c5190806c490e4f328c4dbf7",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T15:49:16.117Z"
   },
   {
     "address": "0x7b5ab5e7bed9339efaa46e4c13bd085930d7ab7c",
@@ -8562,6 +8850,12 @@
     "lastSeenAt": "2026-09-06T01:24:15.366Z"
   },
   {
+    "address": "0x80d0940f60941ace0d6429275e4415575da814bb",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T05:42:29.429Z"
+  },
+  {
     "address": "0x80d76d95b8c7a9954deab41e42f0742d6a8a3dc6",
     "holders": 251,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -8608,6 +8902,12 @@
     "holders": 16,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x81aafa995e00eeda44e71f837f4731e9ac0c4544",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T21:37:00.995Z"
   },
   {
     "address": "0x81ae639e4157114a5c81021aab9f07dbc73de627",
@@ -8670,6 +8970,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x82a8883ce7f00b229983b093742f5ed077528595",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T04:22:34.769Z"
+  },
+  {
     "address": "0x82be8de5f46bba84c72e4e034d20f9f219e972f2",
     "holders": 82,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -8686,6 +8992,12 @@
     "holders": 2,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x82cfd886e91217cb6b760e063ff7e331c5e7933c",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T06:22:27.551Z"
   },
   {
     "address": "0x82d0ac3d6df125fd5f3284f11a08b8c04de24eda",
@@ -8808,10 +9120,22 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x842f8b9a41ce37cff6ad24ace8829f28a0830f11",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T21:37:00.995Z"
+  },
+  {
     "address": "0x844d3936c8b89058c4b5fac13ccb19569a8d1e18",
     "holders": 7,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x845b4915e85f620bc5ce3d854783d6165dd6bda1",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T07:43:00.733Z"
   },
   {
     "address": "0x845f61db2f45248192d3f936019170098b220d2f",
@@ -8854,6 +9178,12 @@
     "holders": 2,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x84e2f9bd7d8cb754029fe4acf77a02cd9c0f53f1",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T06:53:04.565Z"
   },
   {
     "address": "0x85732b538b796df130dac0caec39fbe38582950d",
@@ -9048,6 +9378,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x8911ada4dde0bd1e0aebbef145103176f696eba3",
+    "holders": null,
+    "totalSupplyRaw": "100000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T06:27:56.549Z"
+  },
+  {
     "address": "0x891b0a5b34bca254169b18429657d545569bf89c",
     "holders": 3,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -9184,6 +9520,12 @@
     "holders": 4,
     "totalSupplyRaw": "150000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x8af9dc4d2cc9195ca851fd2a91ae8190f9e74b07",
+    "holders": null,
+    "totalSupplyRaw": "100000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T07:43:00.733Z"
   },
   {
     "address": "0x8b068143bd03b984fb2a8dfd43b2d9b2704c2ba3",
@@ -9864,6 +10206,12 @@
     "lastSeenAt": "2026-09-06T01:24:15.366Z"
   },
   {
+    "address": "0x9515ac7e4f5692a1173bc4399f7d0a1cb937b203",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T10:07:22.293Z"
+  },
+  {
     "address": "0x9539375b797273e1da7613e5f35d5964f21af125",
     "holders": 4,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -9990,6 +10338,12 @@
     "lastSeenAt": "2026-09-06T08:25:51.925Z"
   },
   {
+    "address": "0x97adf20db35c4070c528324f2a300f13be60dbd7",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T16:20:23.251Z"
+  },
+  {
     "address": "0x97af1e8368351a6cde68589f334836c9f3c61887",
     "holders": 2,
     "totalSupplyRaw": "252000000000000000000000",
@@ -10036,6 +10390,12 @@
     "holders": 171,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T01:24:15.366Z"
+  },
+  {
+    "address": "0x985a2dc6529ebfe14964af2fbf7b5974017448be",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T13:45:30.090Z"
   },
   {
     "address": "0x98779875157711be109ac5087126f94fb3ce9c0c",
@@ -10108,6 +10468,12 @@
     "holders": 2,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0x99118e2dca7224f0e04cb5aabf9a842f878a3ba3",
+    "holders": null,
+    "totalSupplyRaw": "100000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T07:08:38.410Z"
   },
   {
     "address": "0x9914cecdd50810c9c0e35414a20b9a72e4863001",
@@ -10410,6 +10776,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0x9d7a2232bd2b3b80505318f7d0df2e43149ac508",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T16:20:23.251Z"
+  },
+  {
     "address": "0x9d7a9cdab4c3caba4b4faa46277f1fa936d97d01",
     "holders": 4,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -10528,6 +10900,12 @@
     "holders": 7,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-04T14:37:00.887Z"
+  },
+  {
+    "address": "0x9f5eee6884d1b342c70adb56fe1232ef644276e7",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T21:56:13.608Z"
   },
   {
     "address": "0x9f5fa0e1be2926a665c869e803c778221c795bd1",
@@ -10660,6 +11038,12 @@
     "holders": 69,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0xa1bf1b81e956da992c623f9eb4f124cddf8fb850",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T05:59:37.490Z"
   },
   {
     "address": "0xa1e5f8ba02d78b63bcc5443ccecb4a506f348137",
@@ -11142,6 +11526,12 @@
     "lastSeenAt": "2026-09-06T01:24:15.366Z"
   },
   {
+    "address": "0xa81bb3d97d0d2b50c1ca1ad87cf433a90816dba3",
+    "holders": null,
+    "totalSupplyRaw": "100000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T08:11:14.495Z"
+  },
+  {
     "address": "0xa81c6e61437b108aed814f2bf0e8029535810ba3",
     "holders": 2,
     "totalSupplyRaw": "100000000000000000000000000000",
@@ -11166,6 +11556,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0xa8b0f21cea4f42300736728e1e1f18a23ed19d77",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T21:37:00.995Z"
+  },
+  {
     "address": "0xa8b9b4a4ef10d4abb5c8c8ed24628407e671fba3",
     "holders": 2,
     "totalSupplyRaw": "100000000000000000000000000000",
@@ -11182,6 +11578,12 @@
     "holders": 2,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0xa91e1053ba812f473ac05f71cb212b0dc17cee22",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T06:53:04.565Z"
   },
   {
     "address": "0xa94ebd1c45eee6fccbd3da119ba94210a5c6aba3",
@@ -11232,10 +11634,22 @@
     "lastSeenAt": "2026-09-06T01:24:15.366Z"
   },
   {
+    "address": "0xaa5481a52b661147aa31ac02410f2fda5ac9573c",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T21:37:00.995Z"
+  },
+  {
     "address": "0xaaa21918a772dc5659f79b883e617fe069f4c4bf",
     "holders": 1,
     "totalSupplyRaw": "10000000000000000000004739551039472778",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0xaaa731cc2f07cdd18870da1ff7b660489ead3ba3",
+    "holders": null,
+    "totalSupplyRaw": "100000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T08:58:34.941Z"
   },
   {
     "address": "0xaaa90e548b16adb2b9e60fb4d2526d6610710ccf",
@@ -11670,6 +12084,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0xb172fcdf5bb11b45c8c590023050668f234a9971",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T04:06:08.705Z"
+  },
+  {
     "address": "0xb17bf916cf5fe72f87613eb9f1aa8abf7f18d376",
     "holders": 3,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -12028,6 +12448,12 @@
     "holders": 55,
     "totalSupplyRaw": "100000000000000000000000000000",
     "lastSeenAt": "2026-09-05T14:45:21.323Z"
+  },
+  {
+    "address": "0xb6e024e92836026fd82b047a8fc3d3c3c37e039c",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T00:02:51.916Z"
   },
   {
     "address": "0xb6e0795d8fbde9de1e3b059482d9353f92fe9ba3",
@@ -12474,6 +12900,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0xbcfc8dd2d5508c5804877673d72edd44b280db03",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T03:21:29.982Z"
+  },
+  {
     "address": "0xbd5dfa7535ebc4f1208b7f8c63bbaa191d2dfba3",
     "holders": 2,
     "totalSupplyRaw": "100000000000000000000000000000",
@@ -12520,6 +12952,12 @@
     "holders": 1,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0xbe0d2f73813f4ece031c3aca86c3d8ee99363b2e",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T01:59:49.225Z"
   },
   {
     "address": "0xbe137b703542b15029d76c1416107dfe1f976bfa",
@@ -12834,6 +13272,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0xc28fc5f42e8fe066bda1d16ef9bd964c9ff0c965",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T06:27:56.549Z"
+  },
+  {
     "address": "0xc29cd436fd907d5c504a218a5097e1cd08539e44",
     "holders": 5,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -12904,6 +13348,12 @@
     "holders": 2,
     "totalSupplyRaw": "100000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0xc4c98957a96529c77f4dfd789a67836043effa40",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T05:42:29.429Z"
   },
   {
     "address": "0xc4eeb662af6e137140957a2599a89c9ed79bba01",
@@ -13074,10 +13524,22 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0xc7c9e98378ffec08e1af4bf598b7164a7ca99715",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T19:26:15.337Z"
+  },
+  {
     "address": "0xc7db6ea9c2b7c8f518d4c958bbbb6a357cf63db1",
     "holders": 2,
     "totalSupplyRaw": "1000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0xc7df820a81231ae2e23ce00e67646f92983ba1f6",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T02:47:54.720Z"
   },
   {
     "address": "0xc7f919bc326bf48907da5513267d15b506211e18",
@@ -13446,6 +13908,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0xccf9c136cfbe04c38fe26b4ca460fdf16ef3cb6b",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T09:23:48.672Z"
+  },
+  {
     "address": "0xcd16233c5099c01aa1b6b608e2c88fcdae636da2",
     "holders": 5,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -13456,6 +13924,12 @@
     "holders": 97,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T01:24:15.366Z"
+  },
+  {
+    "address": "0xcd2edcc229483c3e4bebefb859b69806fe48705c",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T00:02:51.916Z"
   },
   {
     "address": "0xcd3178791220fd22a19a7cc067010697a7e46ba3",
@@ -13474,6 +13948,12 @@
     "holders": 3,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0xcd89298d47a2d9ebd60d6ba0ccc560eb7fe11492",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T20:00:23.780Z"
   },
   {
     "address": "0xcd992e3264eaf382b0b0a5ae2d6b5e0a4d796086",
@@ -13566,6 +14046,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0xcefcb72c58869df7c6d86e13f14854c62cb6c344",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T20:00:23.780Z"
+  },
+  {
     "address": "0xcf223df2e1c6128694a5b52c0b616d732fd9fe83",
     "holders": 200,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -13632,6 +14118,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0xcfb4cd1a82da20f8275f85b856226e3394336a1d",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T18:17:59.712Z"
+  },
+  {
     "address": "0xcfd048fde3f0aac965757c121b839cf7decd8264",
     "holders": 5199,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -13690,6 +14182,12 @@
     "holders": 7,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0xd0d7f003d37eee203848a9f9acd3516e99a37777",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T05:59:37.490Z"
   },
   {
     "address": "0xd0e7a213f30b0c4db4f4de7c7e81ecfbc0e54676",
@@ -13836,6 +14334,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0xd21096e420b84c8638196830bb7a3971fa4e6b03",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T22:59:03.753Z"
+  },
+  {
     "address": "0xd22e736b51bc451fa8d4d536aff15511f5b0c57d",
     "holders": 2,
     "totalSupplyRaw": "100000000000000000000000000000",
@@ -13846,6 +14350,12 @@
     "holders": 5,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0xd240a5aaeb5a39d8f09d2839dd08c4013ca86524",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T13:45:30.090Z"
   },
   {
     "address": "0xd243a0325e8bc3902c63ebabe920b1c80c6afa26",
@@ -13900,6 +14410,12 @@
     "holders": 4,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0xd37d73bfb7664c076f989942d83720b9fd55f9cc",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T20:00:23.780Z"
   },
   {
     "address": "0xd38d6b6f508d85a2c0d737f1299d56d9f509d480",
@@ -13984,6 +14500,12 @@
     "holders": 2,
     "totalSupplyRaw": "10000000000000000000000006666666666667",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0xd4574a8dbfd069c24fccf4e2f4c78213cd60dba3",
+    "holders": null,
+    "totalSupplyRaw": "100000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T08:11:14.495Z"
   },
   {
     "address": "0xd45915568eedb5aa7d9ea8112a5305798284c472",
@@ -14178,6 +14700,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0xd84a044c620b04af6308b9b6b334370bbe594663",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T05:00:39.217Z"
+  },
+  {
     "address": "0xd8534d428c0bd1c272646235b2efac084230ff0b",
     "holders": 1,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -14322,6 +14850,12 @@
     "lastSeenAt": "2026-09-06T01:24:15.366Z"
   },
   {
+    "address": "0xda0957dc4b7738fd98267b57ae72c42e25a11e18",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T21:56:13.608Z"
+  },
+  {
     "address": "0xda109dbd579911f68369a58bc3dc20521ea087cc",
     "holders": 1,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -14332,6 +14866,12 @@
     "holders": 9,
     "totalSupplyRaw": "100000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0xda22d2b96f8ab0442e60d6e1b4b0c54c69526ba3",
+    "holders": null,
+    "totalSupplyRaw": "100000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T08:11:14.495Z"
   },
   {
     "address": "0xda43d3d345443439fbcc3dca28abf6f488acdba3",
@@ -14350,6 +14890,12 @@
     "holders": 5,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0xda900b4459d4b352e596e70587b54d4eeabaef3d",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T15:49:16.117Z"
   },
   {
     "address": "0xdac526721cdd69c0b7446892f3236b3c6cc76e62",
@@ -14428,6 +14974,12 @@
     "holders": 5,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0xdbf14d0f9f700668a0ba70cbeb28fb17c0707b03",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T22:34:55.813Z"
   },
   {
     "address": "0xdc31e9658b11c4d3e7da9fbaf2dc6d3e3b2ece0a",
@@ -14670,6 +15222,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0xdf966772a6fccd7336f508c0b6d260036f4ffaba",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T05:59:37.490Z"
+  },
+  {
     "address": "0xdf970c73068d0c09374f2ccec6dc24792def7777",
     "holders": 89,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -14800,6 +15358,18 @@
     "holders": 1,
     "totalSupplyRaw": "100000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0xe1b055b7747ee4ad2fa8eb89974d54385831960e",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T15:49:16.117Z"
+  },
+  {
+    "address": "0xe1bb1f07f6f342844dbe228d8dbcb2a84c1d6ba3",
+    "holders": null,
+    "totalSupplyRaw": "100000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T16:20:23.251Z"
   },
   {
     "address": "0xe1bdf121abe8f56322619601cbfe626e1aafb123",
@@ -15036,6 +15606,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0xe5c0ce0b9d5c4509e52920365ce3b20fdc9eba41",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T21:56:13.608Z"
+  },
+  {
     "address": "0xe5fd58bcf95ed39a91d67c8d2a5300d0be3a3ba3",
     "holders": 2,
     "totalSupplyRaw": "100000000000000000000000000000",
@@ -15210,10 +15786,22 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0xe89275b9b7bc2a0131eecb5a2390b6002ad72c0f",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T15:49:16.117Z"
+  },
+  {
     "address": "0xe8a3d4a194f97660f40e3ebd79c712a493392ba3",
     "holders": 2,
     "totalSupplyRaw": "100000000000000000000000000000",
     "lastSeenAt": "2026-09-05T11:49:08.591Z"
+  },
+  {
+    "address": "0xe8b3f4c623a30dfb9056826e68b54416e41df7aa",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T17:32:10.618Z"
   },
   {
     "address": "0xe8c1bee36b384a1b4699a2a9240446621f387777",
@@ -15264,6 +15852,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0xe94a3353337da1aa1b6aec80cbd7e49155f0a548",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T00:25:44.768Z"
+  },
+  {
     "address": "0xe95772631f75437865550bd23c5e00aef7e2ed50",
     "holders": 2,
     "totalSupplyRaw": "10000000000000000000000066666666666667",
@@ -15292,6 +15886,12 @@
     "holders": 2,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0xe9c7fb3d5d6fa67abb79af66971467c0d5f2eb07",
+    "holders": null,
+    "totalSupplyRaw": "100000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T07:43:00.733Z"
   },
   {
     "address": "0xe9ce99463097253c94820d9147180d2b130b4ba3",
@@ -15516,6 +16116,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0xecfa2a0fd7558ac1c7b925e0a90de00b66fed752",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T17:32:10.618Z"
+  },
+  {
     "address": "0xecfa8b7acca8e601c7949606a9fcd7698902cfeb",
     "holders": 4,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -15526,6 +16132,12 @@
     "holders": 4,
     "totalSupplyRaw": "150000000000000000000000",
     "lastSeenAt": "2026-09-04T14:43:18.015Z"
+  },
+  {
+    "address": "0xed07582ba9ad0ffef1dfd54ef503f47ca2cb8ba3",
+    "holders": null,
+    "totalSupplyRaw": "100000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T09:23:48.672Z"
   },
   {
     "address": "0xed0abba66362c77af7adc72b50cc688155dc64e1",
@@ -15696,6 +16308,18 @@
     "lastSeenAt": "2026-09-06T08:25:51.925Z"
   },
   {
+    "address": "0xef7fde2041766785eda40709ffd9a4bec6d93144",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T18:17:59.712Z"
+  },
+  {
+    "address": "0xef8d54537a45aaa698356b0ef2272e9e951aa8a3",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T21:07:40.662Z"
+  },
+  {
     "address": "0xef8fa1676bf04de0565909a8425689f31fd6eba3",
     "holders": 2,
     "totalSupplyRaw": "100000000000000000000000000000",
@@ -15744,6 +16368,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0xf01ab9476afcaa0e0058c83cef2b4c30867abeeb",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T19:50:43.592Z"
+  },
+  {
     "address": "0xf02441ceeb81dbaf9ff8cf777eadacde5cd27777",
     "holders": 200,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -15766,6 +16396,12 @@
     "holders": 5,
     "totalSupplyRaw": "100000000000000000000000000",
     "lastSeenAt": "2026-09-06T08:25:51.925Z"
+  },
+  {
+    "address": "0xf04bc5e3920933c60d47d25d2c1d5688de2ffb03",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T01:59:49.225Z"
   },
   {
     "address": "0xf05369f03eae5e238511e4253c352497f7b7cb7c",
@@ -15960,6 +16596,12 @@
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
   },
   {
+    "address": "0xf3203b152a88465adcd2ea914d1667d15e01b6c3",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T06:53:04.565Z"
+  },
+  {
     "address": "0xf332c7cbe2814677a211edc5171a546411a3e9cf",
     "holders": 3,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -16080,6 +16722,12 @@
     "lastSeenAt": "2026-09-06T01:24:15.366Z"
   },
   {
+    "address": "0xf5954478673ae8793be2d28f0ef2ee737b37d95e",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T13:52:43.963Z"
+  },
+  {
     "address": "0xf5cbe36744ac63aaf2d95ea937d664adcc68c369",
     "holders": 1,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -16156,6 +16804,12 @@
     "holders": 1151,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0xf73166434a4b71f185a8af6ebec9770545c164e5",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T10:07:22.293Z"
   },
   {
     "address": "0xf7349b752504ab1cdd89da6bb7d4021847f80ba3",
@@ -16428,6 +17082,12 @@
     "lastSeenAt": "2026-09-06T01:24:15.366Z"
   },
   {
+    "address": "0xfbbbe600cd780a4eb107324c56ce969e147fe37e",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-08T04:06:08.705Z"
+  },
+  {
     "address": "0xfbc0deda6b408d284d2e57254a00270546e2cccc",
     "holders": 1,
     "totalSupplyRaw": "1000000000000000000000000000",
@@ -16510,6 +17170,12 @@
     "holders": 2,
     "totalSupplyRaw": "1000000000000000000000000000",
     "lastSeenAt": "2026-09-06T14:44:54.631Z"
+  },
+  {
+    "address": "0xfd7a3c596da4afbab2ff5539518c743f210f0f8c",
+    "holders": null,
+    "totalSupplyRaw": "1000000000000000000000000000",
+    "lastSeenAt": "2026-09-07T20:00:23.780Z"
   },
   {
     "address": "0xfdc119609ad27bb8a65bccc5f6c302c465da3713",
