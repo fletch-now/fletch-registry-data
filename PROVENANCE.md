@@ -61,3 +61,10 @@ The daemon stores `observedAt` with microseconds and the cursor carries millisec
 ## Paging the lookalikes and the control plane
 
 `/chains/4663/lookalikes` returns at most 1000 rows and `/chains/4663/control-plane` at most 200 events per request. The snapshot walks both with `offset`, stopping at a short page. Lookalikes are ordered by holder count, which the scan refreshes, so rows can shift between pages read across a scan; the snapshot dedupes by address. Control-plane events come newest first; an event that lands between two page reads repeats one row on the next page, which the snapshot dedupes by `txHash:logIndex`. `manifest.json` records `complete: false` for a read whose second page repeated the first, which is what the API did before `offset` was accepted.
+
+## Snapshot age and live reads
+
+`manifest.fetchedAt` dates the copy, not every measurement inside it. Per-row source
+timestamps and nulls survive export. A successful daily workflow proves the fetch
+and validation completed; it does not establish complete historical indexing or
+current prices. See [AI.md](AI.md) for bounded live queries and trust/freshness rules.

@@ -4,6 +4,9 @@ Daily git snapshots of every Stock Token, known lookalike and registry event on 
 
 [fletch.now/developers](https://fletch.now/developers) · [API reference](https://fletch.now/api/v1/docs) · [Registry](https://fletch.now/registry) · [llms.txt](https://fletch.now/llms.txt)
 
+Read [AI.md](AI.md) before using a snapshot as model context: timestamps, nulls,
+trust and coverage are part of the answer. Use the live API for current values.
+
 ## Files
 
 | File | Contents | Source |
@@ -23,7 +26,7 @@ Daily git snapshots of every Stock Token, known lookalike and registry event on 
 
 ## The token list
 
-A token is in the list when the API reports it as `assetType: stock_token`, `trust.level: confirmed` (the contract answers with the symbol and decimals Robinhood published) and `state.canonical: true` (its EIP-1967 beacon slot holds the issuer's AccessControlsRegistry). Bridged tokens, the stablecoin and the wrapped native token are in `data/assets.json` and not in the list. `state.canonical` is the daemon's last successful check (`state.checkedAt`); when `manifest.status.failingJobs` lists `canonical`, that check is older than the snapshot.
+A token is in the list when the API reports it as `assetType: stock_token`, `trust.level: confirmed` (the contract answers with the symbol and decimals Robinhood published) and `state.canonical: true` (its EIP-1967 beacon slot holds the issuer's AccessControlsRegistry). Bridged tokens, the stablecoin and the wrapped native token are in `data/assets.json` and not in the list. `state.canonical` is the daemon's last successful check (`state.checkedAt`); its own observation timestamp must be checked; `manifest.status` is job health at snapshot time and does not refresh per-asset proof.
 
 Addresses are EIP-55 checksummed. Names are the contract's own `name()` where the daemon has read it, else the listing name; the schema caps a name at 60 characters, and three listed names pass that cap only once the issuer's ` • Robinhood Token` suffix is removed, so a name over the cap is written without the suffix. Each token carries the tag `stock` and the extensions `registry` (its page on fletch.now) and `beacon`.
 
