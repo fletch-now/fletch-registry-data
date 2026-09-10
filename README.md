@@ -56,3 +56,58 @@ This proves that the slot at each address points at the registry. It does not co
 Everything outside `data/` and `tokenlist.json` is under MIT (`LICENSE`). Those files follow `LICENSE-DATA.md`: the columns Fletch derives (trust, canonical, kind, exact-name, first and last seen, event ids and titles, verdicts) are under CC BY 4.0, and fields reproduced from Robinhood and Blockscout are theirs.
 
 Fletch is not affiliated with Robinhood Markets, Inc.
+
+## Public availability and freshness monitor
+
+`.github/workflows/monitor.yml` runs on GitHub-hosted runners outside Fletch's
+service host, requested every five minutes, on pushes changing its workflow,
+script or tests, and manually through `workflow_dispatch`.
+GitHub scheduled runs are best effort: they may start late, be skipped or be
+disabled by repository inactivity. Workflow history must be checked for missing
+runs. This schedule is not a five-minute availability guarantee.
+
+`npm run monitor` needs Node 22 and no installed dependencies. It reads anonymous
+`/api/v1/status` twice, 65 seconds apart, and
+`/api/v1/chains/4663/markets?pageSize=25&sort=volume` once. Requests time out after
+20 seconds, reject redirects and cap response bodies at 2 MB. It requires the
+structured metric observations and per-job metric coverage introduced by the
+Registry reliability update; an older API fails the contract check.
+
+The monitor independently checks the public response time (30 seconds), daemon
+heartbeat (60 seconds), observed chain head (90 seconds) and indexed swap block
+(120 seconds). Both head and swap block numbers must advance between samples.
+These are monitor thresholds, not an availability SLA. Market values require a
+current observation with a source ID and an unexpired policy timestamp; source
+fetch times may explicitly be null, including derived observations whose inputs
+carry their own timestamps. It checks those inputs recursively. It records
+per-metric current, unavailable and failed counts for the sampled first page.
+
+HTTP failures, malformed JSON, stale checkpoints, failed jobs, failed metric
+reads and invalid observation contracts fail the run. Incomplete history,
+priority-pool coverage or required sampled price/supply/capitalization/volume
+coverage produces a `partial` result and a nonzero exit. It never converts
+upstream denial into a passing check. Optional holder and venue-specific depth
+absence is counted without requiring both depth types for every token.
+
+`monitor-artifacts/initial.json` is saved before the second sample;
+`report.json` contains both status readings, Markets, errors, coverage and local
+observation times. Artifacts strip credential fields, bearer tokens and URLs;
+HTTP error bodies are discarded. The workflow uploads evidence even when its
+monitor step fails, with 30-day retention. It sends no email or webhook and
+commits no data. GitHub's own account notification preferences still apply.
+
+A seven-day review must include failed, partial and absent scheduled runs, plus
+per-metric ages and checkpoint progress. The monitor has fixture tests; no
+seven-day observation record or continuous-availability claim is established
+by adding this workflow. Its first-page sample cannot establish full catalog,
+all-venue or historical-ledger coverage.
+
+The daily snapshot remains a separate export. `scripts/snapshot.mjs` reads the
+live API and writes `data/` and `tokenlist.json`; no wholesale snapshot is needed
+to add this monitor. After the API update, the next successful daily snapshot
+will carry current lookalike classifications and status metric coverage in its
+manifest. Existing snapshots retain their dated evidence. Beacon checks record
+a dependency; issuer origin depends on official listing or separately verified
+deployment evidence.
+
+The reliability release's exact public schema snapshot and source hashes are in [the snapshot record](schema/SNAPSHOT-2026-09-10-reliability.md).

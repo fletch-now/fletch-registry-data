@@ -16,7 +16,8 @@
   "scripts": {
     "snapshot": "node scripts/snapshot.mjs",
     "verify": "node scripts/verify.mjs",
-    "test": "node --test"
+    "test": "node --test",
+    "monitor": "node scripts/monitor.mjs"
   },
   "dependencies": {
     "viem": "2.56.0"
