@@ -15,7 +15,7 @@ function asset(overrides = {}) {
     isin: "US03823U1025",
     logoUrl: "https://cdn.robinhood.com/ncw_assets/logos/0x521cf887e6531c6f667b5bc4d896e5d9bfe8eb2e.png",
     firstSeenAt: "2026-09-02T14:53:22.412Z",
-    trust: { level: "confirmed" },
+    trust: { level: "verified" },
     state: { canonical: true, beacon: "0xe10b6f6b275de231345c20d14ab812db62151b00", multiplier: 1, quote: { bid: 1, ask: 2 } },
     ...overrides,
   };
@@ -28,11 +28,14 @@ test("tokenListName keeps short names and drops the issuer suffix from long ones
   assert.ok(tokenListName("x".repeat(80)).length <= 60);
 });
 
-test("only confirmed canonical stock tokens make the list", function () {
+test("only verified canonical stock tokens make the list", function () {
   assert.ok(isCanonicalStockToken(asset()));
   assert.ok(!isCanonicalStockToken(asset({ assetType: "bridged", state: null })));
   assert.ok(!isCanonicalStockToken(asset({ state: { canonical: false } })));
-  assert.ok(!isCanonicalStockToken(asset({ trust: { level: "listed" } })));
+  for (const level of ["listed", "community", "lookalike", "unknown", "confirmed"]) {
+    assert.equal(isCanonicalStockToken(asset({ trust: { level } })), false, level);
+  }
+  assert.equal(isCanonicalStockToken(asset({ state: { canonical: null } })), false);
 });
 
 test("buildTokenList checksums addresses and starts at 1.0.0", function () {

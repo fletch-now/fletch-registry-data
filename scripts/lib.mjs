@@ -23,7 +23,7 @@ const NAME_MAX = 60;
 const EXTENSION_MAX = 42;
 
 export function isCanonicalStockToken(asset) {
-  return asset.assetType === "stock_token" && asset.trust?.level === "confirmed" && asset.state?.canonical === true;
+  return asset.assetType === "stock_token" && asset.trust?.level === "verified" && asset.state?.canonical === true;
 }
 
 export function tokenListName(name) {

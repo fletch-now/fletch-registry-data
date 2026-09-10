@@ -45,3 +45,12 @@ archive of all discovered pools or all historical transfers. Private unreleased
 indexing work is not represented here.
 
 For bounded on-demand integration instructions, read [the live agent skill](https://fletch.now/skill.md).
+
+## Live market filters
+
+For current token pages, discover the [market filter catalog](https://fletch.now/api/v1/chains/4663/markets/filters)
+and request [one market page](https://fletch.now/api/v1/chains/4663/markets?page=1&pageSize=25).
+These are live API reads, separate from this repository's dated asset snapshots.
+Use the catalog's exact values and preserve metric-level sources and times.
+Combined filters use AND; unavailable readings do not satisfy numeric thresholds.
+V3 quote holdings and V4 bounded 1% depth remain separate measures.

@@ -11,7 +11,7 @@ trust and coverage are part of the answer. Use the live API for current values.
 
 | File | Contents | Source |
 | --- | --- | --- |
-| `tokenlist.json` | A [Uniswap Token List](https://github.com/Uniswap/token-lists) of the confirmed canonical Stock Tokens, validated against `schema/tokenlist.schema.json` in CI | `/chains/4663/assets` |
+| `tokenlist.json` | A [Uniswap Token List](https://github.com/Uniswap/token-lists) of the verified canonical Stock Tokens, validated against `schema/tokenlist.schema.json` in CI | `/chains/4663/assets` |
 | `data/assets.json` | Every asset the registry lists, with its live state, as the API returns it less Robinhood's `raw` listing payload and the ISIN (see `LICENSE-DATA.md`), sorted by symbol | `/chains/4663/assets` |
 | `data/assets.csv` | One flat row per asset; the columns are listed in `scripts/lib.mjs` | same |
 | `data/lookalikes.json` | The identity of every ERC-20 that borrows a listed ticker or exact name at another address: address, symbol, name, decimals, the ticker it claims, kind, exact-name flag, beacon, first seen | `/chains/4663/lookalikes` |
@@ -26,7 +26,7 @@ trust and coverage are part of the answer. Use the live API for current values.
 
 ## The token list
 
-A token is in the list when the API reports it as `assetType: stock_token`, `trust.level: confirmed` (the contract answers with the symbol and decimals Robinhood published) and `state.canonical: true` (its EIP-1967 beacon slot holds the issuer's AccessControlsRegistry). Bridged tokens, the stablecoin and the wrapped native token are in `data/assets.json` and not in the list. `state.canonical` is the daemon's last successful check (`state.checkedAt`); its own observation timestamp must be checked; `manifest.status` is job health at snapshot time and does not refresh per-asset proof.
+A token is in the list when the API reports it as `assetType: stock_token`, `trust.level: verified` (the contract answers with the symbol and decimals Robinhood published) and `state.canonical: true` (its EIP-1967 beacon slot holds the issuer's AccessControlsRegistry). Bridged tokens, the stablecoin and the wrapped native token are in `data/assets.json` and not in the list. `state.canonical` is the daemon's last successful check (`state.checkedAt`); its own observation timestamp must be checked; `manifest.status` is job health at snapshot time and does not refresh per-asset proof.
 
 Addresses are EIP-55 checksummed. Names are the contract's own `name()` where the daemon has read it, else the listing name; the schema caps a name at 60 characters, and three listed names pass that cap only once the issuer's ` • Robinhood Token` suffix is removed, so a name over the cap is written without the suffix. Each token carries the tag `stock` and the extensions `registry` (its page on fletch.now) and `beacon`.
 

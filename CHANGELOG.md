@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-09-10 — Current trust contract and snapshot
+
+Use the API's `verified` trust level together with `state.canonical: true` for token-list inclusion. Regression tests reject missing canonical proof and other trust levels. The live snapshot contains 207 assets and preserves 194 canonical tokens at tokenlist version 1.0.1. It records degraded job status and each observation time; the independent beacon verification file retains its earlier verification date. Link the shared live Markets filter catalog separately from this dataset.
+
 ## 2026-09-08 — Agent reading guidance
 
 Add dated-snapshot, live freshness, null-value and trust guidance. Refresh the public API snapshot at 2026-09-08T18:27:17.753Z, preserving per-row observation times, the event cursor and all previously recorded events. Historical commits remain unchanged; this new manifest records the health and paging coverage observed during its own fetch.

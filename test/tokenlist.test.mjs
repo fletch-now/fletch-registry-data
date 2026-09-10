@@ -29,7 +29,7 @@ test("a list built from a 75-character name validates against the Uniswap schema
         decimals: 18,
         isin: "US0000000000",
         logoUrl: "https://cdn.robinhood.com/x.png",
-        trust: { level: "confirmed" },
+        trust: { level: "verified" },
         state: { canonical: true, beacon: "0xe10b6f6b275de231345c20d14ab812db62151b00" },
       },
     ],
