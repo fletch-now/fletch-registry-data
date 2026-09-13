@@ -1,16 +1,21 @@
 {
-  "fetchedAt": "2026-09-13T06:35:11.196Z",
+  "fetchedAt": "2026-09-13T20:26:42.157Z",
   "api": "https://fletch.now/api/v1",
   "chainId": 4663,
   "status": {
     "verdict": "degraded",
-    "summary": "1 of 37 jobs is not current (failing: priority-universe).",
-    "checkedAt": "2026-09-13T06:35:11.867Z",
-    "headBlock": "61747397",
-    "headReadAt": "2026-09-13T06:34:28.674Z",
+    "summary": "5 of 40 jobs are not current (failing: priority-universe, priority-holders, lookalikes; late: dex-swap-backfill, market-refresh).",
+    "checkedAt": "2026-09-13T20:26:42.528Z",
+    "headBlock": "62238479",
+    "headReadAt": "2026-09-13T20:25:39.619Z",
     "failingJobs": [
       "priority-universe"
     ]
+  },
+  "appCatalog": {
+    "symbols": 428,
+    "complete": true,
+    "pages": 3
   },
   "assets": {
     "assets": 207,
@@ -23,7 +28,7 @@
     }
   },
   "lookalikes": {
-    "rows": 4128,
+    "rows": 4221,
     "pages": 5,
     "complete": true
   },
@@ -33,9 +38,9 @@
     "complete": true
   },
   "events": {
-    "appended": 152,
-    "total": 1824,
-    "cursor": "2026-09-13T06:17:12.354Z|ev_ebf77abfb5adbbb53e96f98f",
+    "appended": 1292,
+    "total": 3116,
+    "cursor": "2026-09-13T20:25:40.827Z|ev_f9b4c0437445460361f0ac97",
     "complete": true
   }
 }

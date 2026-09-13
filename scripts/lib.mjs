@@ -278,3 +278,31 @@ export function addressFromSlot(value) {
   const address = `0x${value.slice(-40)}`.toLowerCase();
   return address === "0x0000000000000000000000000000000000000000" ? null : address;
 }
+
+// Keep each page's observation time: pagination may span more than one sync.
+export async function collectAppCatalog(fetchPage) {
+  const items = [];
+  const observations = [];
+  const seen = new Set();
+  let offset = 0;
+  let total = null;
+  for (let page = 0; page < 100; page++) {
+    const body = await fetchPage(offset, 200);
+    if (!Array.isArray(body.items) || !Number.isInteger(body.total) || body.total < 0 || body.offset !== offset || !body.observedAt || typeof body.stale !== "boolean") throw new Error("App catalog response schema changed");
+    if (total !== null && total !== body.total) throw new Error("App catalog changed during pagination; retry the snapshot");
+    total = body.total;
+    for (const item of body.items) {
+      if (typeof item.symbol !== "string" || seen.has(item.symbol) || !["tradable", "display_only", "unavailable"].includes(item.status) || !Array.isArray(item.pairs)) throw new Error("App catalog repeated or malformed symbol");
+      seen.add(item.symbol);
+      items.push(item);
+    }
+    observations.push({ source: body.source, observedAt: body.observedAt, ageSeconds: body.ageSeconds, stale: body.stale, error: body.error, offset, count: body.items.length });
+    if (body.nextOffset === null) {
+      if (items.length !== total) throw new Error("App catalog ended before all symbols were read");
+      return { items, total, observations, complete: true };
+    }
+    if (!body.items.length || body.nextOffset !== offset + body.items.length) throw new Error("App catalog cursor did not advance");
+    offset = body.nextOffset;
+  }
+  throw new Error("App catalog exceeded the snapshot page limit");
+}

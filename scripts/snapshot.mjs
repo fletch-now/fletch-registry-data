@@ -8,7 +8,7 @@
 import { appendFile, mkdir, readFile, writeFile } from "node:fs/promises";
 import { existsSync } from "node:fs";
 import { CHAIN_ID, getJson } from "./api.mjs";
-import { assetsCsv, buildTokenList, collectEvents, collectPaged, isCanonicalStockToken, sortAssets, splitLookalikes, withoutListingPayload } from "./lib.mjs";
+import { assetsCsv, buildTokenList, collectAppCatalog, collectEvents, collectPaged, isCanonicalStockToken, sortAssets, splitLookalikes, withoutListingPayload } from "./lib.mjs";
 
 const ROOT = new URL("../", import.meta.url);
 const DATA = new URL("data/", ROOT);
@@ -128,6 +128,10 @@ async function main() {
   await mkdir(DATA, { recursive: true });
   const status = await getJson("/status");
   log(`status: ${status.verdict} (${status.summary})`);
+  await writeJson(new URL("status.json", DATA), status);
+  const catalog = await collectAppCatalog((offset, limit) => getJson(`/chains/${CHAIN_ID}/app-catalog`, { offset, limit }));
+  await writeJson(new URL("app-catalog.json", DATA), { fetchedAt: now.toISOString(), chainId: CHAIN_ID, ...catalog });
+  log(`app catalog: ${catalog.total} symbols across ${catalog.observations.length} pages`);
   const assets = await snapshotAssets(now);
   const lookalikes = await snapshotLookalikes();
   const controlPlane = await snapshotControlPlane();
@@ -144,6 +148,7 @@ async function main() {
       headReadAt: status.head?.readAt ?? null,
       failingJobs: status.daemon?.failing ?? [],
     },
+    appCatalog: { symbols: catalog.total, complete: catalog.complete, pages: catalog.observations.length },
     assets,
     lookalikes,
     controlPlane,

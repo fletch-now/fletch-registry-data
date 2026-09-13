@@ -16,7 +16,7 @@ Fletch's registry daemon began recording on 2026-09-04. The first line of `data/
 | `assets[].onchainName`, `onchainSymbol`, `onchainDecimals`, `state.tokenPaused`, `state.oraclePaused`, `state.totalSupplyRaw`, `state.beacon`, `state.implementation`; `control-plane.json` throughout; `lookalikes[].address`, `symbol`, `name`, `decimals`, `beacon`, `totalSupplyRaw` | Robinhood Chain, read over the public RPC by Fletch's daemon |
 | `state.feed` | The Chainlink aggregator for the symbol, read on chain |
 | `state.dex` | Uniswap v4 and v3 pools on Robinhood Chain, read on chain |
-| `state.secondSource`, `lookalikes[].holders` | Blockscout's Robinhood Chain explorer API, reproduced |
+| `state.secondSource`, `lookalikes[].holders` | The chain explorer's Robinhood Chain explorer API, reproduced |
 | `trust`, `state.canonical`, `state.priceDivergencePct`, `lookalikes[].claims`, `kind`, `exactName`, `firstSeenAt`, `lastSeenAt`, every event's `id`, `kind`, `title`, `observedAt`, `manifest.status` | Derived by Fletch |
 
 ## Event ids
@@ -68,3 +68,12 @@ The daemon stores `observedAt` with microseconds and the cursor carries millisec
 timestamps and nulls survive export. A successful daily workflow proves the fetch
 and validation completed; it does not establish complete historical indexing or
 current prices. See [AI.md](AI.md) for bounded live queries and trust/freshness rules.
+
+## App catalog
+
+`data/app-catalog.json` records the public app-catalog API. Its `observations`
+array retains each page's source URL, observation time, age, stale flag and error.
+`items` preserves status and account fields for every returned symbol. The source
+is Robinhood's currency-pairs catalog; Fletch observes it. No ticker-to-contract
+verification is implied. `data/status.json` records discovery queues and job coverage
+at fetch time. Use live endpoints when the task requires newer observations.

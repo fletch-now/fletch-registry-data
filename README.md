@@ -12,6 +12,8 @@ trust and coverage are part of the answer. Use the live API for current values.
 | File | Contents | Source |
 | --- | --- | --- |
 | `tokenlist.json` | A [Uniswap Token List](https://github.com/Uniswap/token-lists) of the verified canonical Stock Tokens, validated against `schema/tokenlist.schema.json` in CI | `/chains/4663/assets` |
+| `data/app-catalog.json` | All observed app symbols, trading/account fields and each page's source age, including symbols without a contract match | `/chains/4663/app-catalog` |
+| `data/status.json` | Job freshness, source errors and scouting backlogs at snapshot time | `/status` |
 | `data/assets.json` | Every asset the registry lists, with its live state, as the API returns it less Robinhood's `raw` listing payload and the ISIN (see `LICENSE-DATA.md`), sorted by symbol | `/chains/4663/assets` |
 | `data/assets.csv` | One flat row per asset; the columns are listed in `scripts/lib.mjs` | same |
 | `data/lookalikes.json` | The identity of every ERC-20 that borrows a listed ticker or exact name at another address: address, symbol, name, decimals, the ticker it claims, kind, exact-name flag, beacon, first seen | `/chains/4663/lookalikes` |
@@ -53,7 +55,7 @@ This proves that the slot at each address points at the registry. It does not co
 
 ## Licence
 
-Everything outside `data/` and `tokenlist.json` is under MIT (`LICENSE`). Those files follow `LICENSE-DATA.md`: the columns Fletch derives (trust, canonical, kind, exact-name, first and last seen, event ids and titles, verdicts) are under CC BY 4.0, and fields reproduced from Robinhood and Blockscout are theirs.
+Everything outside `data/` and `tokenlist.json` is under MIT (`LICENSE`). Those files follow `LICENSE-DATA.md`: the columns Fletch derives (trust, canonical, kind, exact-name, first and last seen, event ids and titles, verdicts) are under CC BY 4.0, and fields reproduced from Robinhood and the chain explorer remain attributed to their sources.
 
 Fletch is not affiliated with Robinhood Markets, Inc.
 
@@ -111,3 +113,15 @@ a dependency; issuer origin depends on official listing or separately verified
 deployment evidence.
 
 The reliability release's exact public schema snapshot and source hashes are in [the snapshot record](schema/SNAPSHOT-2026-09-10-reliability.md).
+
+## Live reads
+
+The Git snapshot runs daily. Use the [live catalog](https://fletch.now/api/v1/chains/4663/app-catalog)
+and [token markets](https://fletch.now/api/v1/chains/4663/markets) for current observations.
+The catalog observer targets 15 seconds; discovery runs in bounded batches each
+minute. Those schedules do not make a daily file live. `app-catalog.json` retains
+source age, stale/error flags and account trading fields per fetched page.
+Its `complete` flag means all catalog pages were read, not that the source was fresh.
+`display_only` means a price feed without app trading; a symbol is not contract proof.
+SSE at `/api/v1/chains/4663/events/stream` carries named `listing.*` events along
+with other changes. Cursor reads return every kind; filter after processing the batch.
