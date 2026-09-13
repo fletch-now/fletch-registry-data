@@ -54,3 +54,11 @@ These are live API reads, separate from this repository's dated asset snapshots.
 Use the catalog's exact values and preserve metric-level sources and times.
 Combined filters use AND; unavailable readings do not satisfy numeric thresholds.
 V3 quote holdings and V4 bounded 1% depth remain separate measures.
+
+Crypto catalog status is scoped to currency pairs. Stock Tokens have a separate
+Robinhood asset list, so `not_covered` is not evidence that a Stock Token is absent
+from the app. A legacy `not_in_app` value means absent from the crypto catalog
+only. Read status `scope`, `reason`, source and age together. Live stock/community
+pairings are paginated at `/chains/4663/stock-pairings`; pending token metadata
+and no recorded swaps must remain explicit. Daily snapshots do not update those
+observations automatically.

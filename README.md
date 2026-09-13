@@ -12,7 +12,7 @@ trust and coverage are part of the answer. Use the live API for current values.
 | File | Contents | Source |
 | --- | --- | --- |
 | `tokenlist.json` | A [Uniswap Token List](https://github.com/Uniswap/token-lists) of the verified canonical Stock Tokens, validated against `schema/tokenlist.schema.json` in CI | `/chains/4663/assets` |
-| `data/app-catalog.json` | All observed app symbols, trading/account fields and each page's source age, including symbols without a contract match | `/chains/4663/app-catalog` |
+| `data/app-catalog.json` | All observed crypto catalog symbols, trading/account fields and each page's source age, including symbols without a contract match | `/chains/4663/app-catalog` |
 | `data/status.json` | Job freshness, source errors and scouting backlogs at snapshot time | `/status` |
 | `data/assets.json` | Every asset the registry lists, with its live state, as the API returns it less Robinhood's `raw` listing payload and the ISIN (see `LICENSE-DATA.md`), sorted by symbol | `/chains/4663/assets` |
 | `data/assets.csv` | One flat row per asset; the columns are listed in `scripts/lib.mjs` | same |
@@ -25,6 +25,23 @@ trust and coverage are part of the answer. Use the live API for current values.
 | `data/verify.json` | The last full run of `scripts/verify.mjs`: each address's result and when the run started and finished | the public RPC |
 
 `PROVENANCE.md` says where every field comes from, how an event id is derived and where history begins.
+
+## Crypto catalog and pairing scope
+
+`app-catalog.json` records Robinhood's crypto currency pairs. A Stock Token
+can be present in Robinhood's separate asset list while absent from this crypto
+source. `not_in_app` is retained as a legacy API value for crypto-catalog absence;
+`not_covered` means that source does not determine Stock Token availability.
+Keep `scope`, `reason`, source and each observation age with the status.
+
+Use `/chains/4663/stock-pairings?address=CONTRACT&limit=50&offset=0` for current
+stock/community pairings. Follow `nextOffset` until null to read every pool.
+Summaries group counterparties and count pending metadata; a discovered pool
+does not establish trading, liquidity or a leading pair. Full pairing records
+are served live and are not part of this daily snapshot.
+
+`data/status.json` includes lookalike search coverage separately from job health.
+A completed minute pass can still have pending assets in its six-hour sweep.
 
 ## The token list
 
