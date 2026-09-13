@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-09-12T06:31:14.531Z",
+  "fetchedAt": "2026-09-13T06:35:11.196Z",
   "api": "https://fletch.now/api/v1",
   "chainId": 4663,
   "status": {
     "verdict": "degraded",
     "summary": "1 of 37 jobs is not current (failing: priority-universe).",
-    "checkedAt": "2026-09-12T06:31:15.363Z",
-    "headBlock": "60894296",
-    "headReadAt": "2026-09-12T06:30:34.605Z",
+    "checkedAt": "2026-09-13T06:35:11.867Z",
+    "headBlock": "61747397",
+    "headReadAt": "2026-09-13T06:34:28.674Z",
     "failingJobs": [
       "priority-universe"
     ]
@@ -23,7 +23,7 @@
     }
   },
   "lookalikes": {
-    "rows": 4001,
+    "rows": 4128,
     "pages": 5,
     "complete": true
   },
@@ -33,9 +33,9 @@
     "complete": true
   },
   "events": {
-    "appended": 222,
-    "total": 1672,
-    "cursor": "2026-09-12T06:28:00.494Z|ev_614100d026826a65c34afe0d",
+    "appended": 152,
+    "total": 1824,
+    "cursor": "2026-09-13T06:17:12.354Z|ev_ebf77abfb5adbbb53e96f98f",
     "complete": true
   }
 }

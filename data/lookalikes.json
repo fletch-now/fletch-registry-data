@@ -99,6 +99,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.972Z"
   },
   {
+    "address": "0x001f62008d5b9e68d83be0021671f7316811f425",
+    "symbol": "qqq",
+    "name": "qqq",
+    "decimals": 18,
+    "claims": "QQQ",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T23:27:21.995Z"
+  },
+  {
     "address": "0x002be6966e7a03d06a64cf57ceec3304ca4b023d",
     "symbol": "GME",
     "name": "GameStop",
@@ -680,6 +691,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.544Z"
+  },
+  {
+    "address": "0x0234deb05dd73673cdcab6a87ac1d9f5131d1e18",
+    "symbol": "PLTR",
+    "name": "Palantir Girls",
+    "decimals": 18,
+    "claims": "PLTR",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:30:58.128Z"
   },
   {
     "address": "0x02482cfe01a1c1775213432a38849a52992572ee",
@@ -1485,6 +1507,17 @@
     "firstSeenAt": "2026-09-11T04:06:12.185Z"
   },
   {
+    "address": "0x0686d56f6ada368dc84bc3a2d472fc5fb1812ee6",
+    "symbol": "PEPE",
+    "name": "Pepe",
+    "decimals": 18,
+    "claims": "PEPE",
+    "kind": "unverified",
+    "exactName": true,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T18:04:20.180Z"
+  },
+  {
     "address": "0x068a500db86b482d4af904c4914aa2963a79d6a9",
     "symbol": "IBM",
     "name": "I Buy Memes",
@@ -1914,6 +1947,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.158Z"
   },
   {
+    "address": "0x091e3c03aa6039548a5e48892d378814fb6b21c4",
+    "symbol": "LINK",
+    "name": "Robinlink",
+    "decimals": 18,
+    "claims": "LINK",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T22:25:21.817Z"
+  },
+  {
     "address": "0x09378ff1a753e33e5d88eee606ac3111346931b4",
     "symbol": "DDOG",
     "name": "dancing dog",
@@ -2211,6 +2255,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.249Z"
   },
   {
+    "address": "0x0a5fa8a096aa52b36ab9b064b9c3bf1bedea97d0",
+    "symbol": "SNOW",
+    "name": "Snowfarm",
+    "decimals": 18,
+    "claims": "SNOW",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T00:52:21.990Z"
+  },
+  {
     "address": "0x0a7cdf560f07c09ae3c96b198677e457acb20008",
     "symbol": "RKLB",
     "name": "Rock Lab",
@@ -2286,6 +2341,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:18.247Z"
+  },
+  {
+    "address": "0x0b25c8c499b85747ad7079d452a6a8c50019f95f",
+    "symbol": "AXON",
+    "name": "Axon Balaclava",
+    "decimals": 18,
+    "claims": "AXON",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:30:59.886Z"
   },
   {
     "address": "0x0b2c66b3446cf1b4159364bc7025e1cb850e1e18",
@@ -2693,6 +2759,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-06T01:24:16.640Z"
+  },
+  {
+    "address": "0x0d4f761afafa4f1cb89dc90d38a35248a109f566",
+    "symbol": "RCAT",
+    "name": "Red Cat",
+    "decimals": 18,
+    "claims": "RCAT",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T12:53:17.448Z"
   },
   {
     "address": "0x0d52f9505a600835d9bd3efb4b2508bd12c87712",
@@ -3454,6 +3531,17 @@
     "firstSeenAt": "2026-09-06T17:59:25.704Z"
   },
   {
+    "address": "0x11b6c0fc8e7183600abb9f8944d98932ba99b2ac",
+    "symbol": "ELF",
+    "name": "Lara",
+    "decimals": 18,
+    "claims": "ELF",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T21:35:20.681Z"
+  },
+  {
     "address": "0x11bad063e273275bc9bb484bcfab3c2a522a918e",
     "symbol": "DJT",
     "name": "Trump Media",
@@ -3606,6 +3694,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.468Z"
+  },
+  {
+    "address": "0x12b5bf50e39fa2e1fd401a0b217b43def170d323",
+    "symbol": "BULL",
+    "name": "The Robinhood Bull",
+    "decimals": 18,
+    "claims": "BULL",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T12:47:18.711Z"
   },
   {
     "address": "0x12bb59e34a28176115ea062fddcea896a655918e",
@@ -3870,6 +3969,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-07T04:01:01.801Z"
+  },
+  {
+    "address": "0x147a999f1b2a5e05a34752ae5e1b4c47eeaceaf2",
+    "symbol": "MU",
+    "name": "Micron Technology",
+    "decimals": 18,
+    "claims": "MU",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T12:14:18.827Z"
   },
   {
     "address": "0x1485056b5563bc4d60429791baa8f929e2d3f501",
@@ -4708,6 +4818,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.876Z"
   },
   {
+    "address": "0x18d1c8ebb35be8cead37f65ac0d5c35ce85e9849",
+    "symbol": "COIN",
+    "name": "Sherwood Coin",
+    "decimals": 18,
+    "claims": "COIN",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:11:20.494Z"
+  },
+  {
     "address": "0x18e20b5576707061dbcfff1203e31afdb5f57ba3",
     "symbol": "SNDK",
     "name": "Sandisk Corporation",
@@ -4816,6 +4937,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-11T10:23:15.374Z"
+  },
+  {
+    "address": "0x199804b79a7267b7c50dbb004f554e55f6a707c8",
+    "symbol": "Coin",
+    "name": "I Like the Coin",
+    "decimals": 18,
+    "claims": "COIN",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T13:03:19.133Z"
   },
   {
     "address": "0x19aa84c713cea7ce73a96627fb1ce45465192c27",
@@ -5014,6 +5146,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-08T08:14:15.242Z"
+  },
+  {
+    "address": "0x1a8701732392097bf32fd4c33bc6263e92e568d5",
+    "symbol": "GME",
+    "name": "GAMESTONK",
+    "decimals": 18,
+    "claims": "GME",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T14:23:20.012Z"
   },
   {
     "address": "0x1a88ef39f3e92581c1696df180280d898fcce60b",
@@ -5346,6 +5489,17 @@
     "firstSeenAt": "2026-09-04T13:07:18.061Z"
   },
   {
+    "address": "0x1cbf2507778fb3ecab9fb6d07e209555a5ca76ec",
+    "symbol": "AAPL",
+    "name": "Apple Hood",
+    "decimals": 18,
+    "claims": "AAPL",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T15:41:19.845Z"
+  },
+  {
     "address": "0x1cc0c0f1c73698ca1247e425b31bbce5fba770d4",
     "symbol": "QCOM",
     "name": "Qualcomm",
@@ -5542,6 +5696,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.734Z"
+  },
+  {
+    "address": "0x1d7796aad86ea9707b1bc45e7ec6b49a593a438c",
+    "symbol": "INDA",
+    "name": "Im Not Dumping Anything",
+    "decimals": 18,
+    "claims": "INDA",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T08:47:09.736Z"
   },
   {
     "address": "0x1d7dec477e9987a038ef035ccfb64b425df4a0df",
@@ -6026,6 +6191,28 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-11T05:23:13.778Z"
+  },
+  {
+    "address": "0x1fda28653c99d1439f51800871c57f82175291d2",
+    "symbol": "CRWD",
+    "name": "CrowdStrike",
+    "decimals": 18,
+    "claims": "CRWD",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T20:34:21.362Z"
+  },
+  {
+    "address": "0x1feadd663d0cb886475840926571adae275d45f7",
+    "symbol": "AMC",
+    "name": "AMC",
+    "decimals": 18,
+    "claims": "AMC",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T08:56:17.893Z"
   },
   {
     "address": "0x1ff554c26e7b3dce98ae323249fda7026137f5bb",
@@ -6677,6 +6864,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.936Z"
   },
   {
+    "address": "0x230d21ec141cb7c6a260642960665c92903bd023",
+    "symbol": "RCAT",
+    "name": "Robinhood Cat",
+    "decimals": 18,
+    "claims": "RCAT",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T17:40:18.678Z"
+  },
+  {
     "address": "0x2311340a4e0b7632f5b56e2f6073df25055be2a4",
     "symbol": "USDT",
     "name": "USDT",
@@ -6897,6 +7095,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.025Z"
   },
   {
+    "address": "0x24f087cc383cf786f1c5a43b7327e4da2c038cbf",
+    "symbol": "MXL",
+    "name": "MaxLong",
+    "decimals": 18,
+    "claims": "MXL",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:30:58.513Z"
+  },
+  {
     "address": "0x252a5a2defa6ea2ef0454117858656ed0ce19ba3",
     "symbol": "NVDA",
     "name": "NVIDIA6900",
@@ -6972,6 +7181,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.411Z"
+  },
+  {
+    "address": "0x258e55f7b64771407463d5049455928153ebad0f",
+    "symbol": "BULL",
+    "name": "The Robinhood Bull",
+    "decimals": 18,
+    "claims": "BULL",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T04:11:21.745Z"
   },
   {
     "address": "0x25ab62cb94087c5e131d677c7ed9c121e6cd0492",
@@ -7269,6 +7489,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-08T13:16:42.127Z"
+  },
+  {
+    "address": "0x270c336e5d1f526de86eb066900583aeffe11e18",
+    "symbol": "MSTR",
+    "name": "Meme Strategy",
+    "decimals": 18,
+    "claims": "MSTR",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:30:59.638Z"
   },
   {
     "address": "0x2724bad477750c4b193fedbb93b08ac402f07cac",
@@ -7876,6 +8107,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.605Z"
   },
   {
+    "address": "0x2af0d405947091582db19923cfb2ceda836f52f0",
+    "symbol": "Bull",
+    "name": "The Miami Bull",
+    "decimals": 18,
+    "claims": "BULL",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T19:31:20.357Z"
+  },
+  {
     "address": "0x2affd4e65b7c0f3d0a34572b87062363e0d9ae01",
     "symbol": "ADBE",
     "name": "Adobe",
@@ -8149,6 +8391,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-11T09:48:16.000Z"
+  },
+  {
+    "address": "0x2cd1ff8bf0b7c296618e83a5175182e0c7fa60ec",
+    "symbol": "ORCL",
+    "name": "ORCL",
+    "decimals": 18,
+    "claims": "ORCL",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:30:59.486Z"
   },
   {
     "address": "0x2d2c54789ecec1b1b7ab5e35d9e77cb1b8b575ad",
@@ -8965,6 +9218,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.000Z"
   },
   {
+    "address": "0x3112acee2b40ae20c65c75a6d187001e7afe1bbe",
+    "symbol": "COIN",
+    "name": "just a coin",
+    "decimals": 18,
+    "claims": "COIN",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T06:27:20.203Z"
+  },
+  {
     "address": "0x31192db8611bb50f3519faf6d5bd0ef820a8c2d5",
     "symbol": "BULL",
     "name": "BULL",
@@ -9240,6 +9504,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.317Z"
   },
   {
+    "address": "0x3279cf05638481e27b7eacadb5315cce63a51e18",
+    "symbol": "SMR",
+    "name": "Strategic Meme",
+    "decimals": 18,
+    "claims": "SMR",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:30:59.357Z"
+  },
+  {
     "address": "0x328dd83bbcda1623ec7bc62c6a04e12aa5a39c58",
     "symbol": "BB",
     "name": "Benj Bot",
@@ -9372,6 +9647,17 @@
     "firstSeenAt": "2026-09-11T16:36:18.554Z"
   },
   {
+    "address": "0x3335910dd8895eefc267de4ecd03a4c77b295c44",
+    "symbol": "pi",
+    "name": "the pons experiment",
+    "decimals": 18,
+    "claims": "PL",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T17:32:18.531Z"
+  },
+  {
     "address": "0x333f81ebd508c574fbae8510af82733251a32c48",
     "symbol": "SNDK",
     "name": "Sandicks",
@@ -9392,6 +9678,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.283Z"
+  },
+  {
+    "address": "0x335df15c68092765e1380df8d279fbc93aa4f7c3",
+    "symbol": "PFE",
+    "name": "Pfizer",
+    "decimals": 18,
+    "claims": "PFE",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:30:58.483Z"
   },
   {
     "address": "0x3360d91977180e895e861d85f8ab109202557777",
@@ -10010,6 +10307,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.520Z"
   },
   {
+    "address": "0x36ee2dc7aaf4b5da90a74a6f66087bc07b6cebc0",
+    "symbol": "GLD",
+    "name": "minersrh.xyz",
+    "decimals": 18,
+    "claims": "GLD",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T09:45:18.285Z"
+  },
+  {
     "address": "0x36f7e4056c1eb47ebaa69cc9e83a0540c0d235e6",
     "symbol": "GME",
     "name": "Gamble More Everyday",
@@ -10307,6 +10615,17 @@
     "firstSeenAt": "2026-09-08T13:29:22.885Z"
   },
   {
+    "address": "0x38568c843427e501df30f33274c0d86a518c5060",
+    "symbol": "PEPE",
+    "name": "Pepe",
+    "decimals": 18,
+    "claims": "PEPE",
+    "kind": "unverified",
+    "exactName": true,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T06:22:21.068Z"
+  },
+  {
     "address": "0x38580ad04f6c873816eb7b46071a5ddc274fbba3",
     "symbol": "USAR",
     "name": "Usa Rare Earth",
@@ -10349,6 +10668,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.599Z"
+  },
+  {
+    "address": "0x3870b801431d64cc4f52e59c376291aad383ed0d",
+    "symbol": "BB",
+    "name": "BB",
+    "decimals": 18,
+    "claims": "BB",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:04:20.150Z"
   },
   {
     "address": "0x38737e710b3f53fdba0612f697a04c30ee822675",
@@ -10615,6 +10945,17 @@
     "firstSeenAt": "2026-09-04T13:07:16.914Z"
   },
   {
+    "address": "0x39db90168a729f9b89451f02f51e0d0122aadb8e",
+    "symbol": "PEPE",
+    "name": "PEPE",
+    "decimals": 18,
+    "claims": "PEPE",
+    "kind": "unverified",
+    "exactName": true,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T12:18:20.128Z"
+  },
+  {
     "address": "0x39fa67584053295828f7bb53264fe57b24b90b07",
     "symbol": "GEV",
     "name": "God’s Eye View",
@@ -10624,6 +10965,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.121Z"
+  },
+  {
+    "address": "0x3a090ae5d5b1dca416c1ecda62be1b583a0f0299",
+    "symbol": "FLY",
+    "name": "FLY",
+    "decimals": 18,
+    "claims": "FLY",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T17:15:19.946Z"
   },
   {
     "address": "0x3a091bb00184b19d65e903a36455035afb9d7612",
@@ -11000,6 +11352,17 @@
     "firstSeenAt": "2026-09-06T21:10:20.825Z"
   },
   {
+    "address": "0x3c2592cf9cfbe6d5cdb8c64b6bfb4afb1bb77777",
+    "symbol": "RBLX",
+    "name": "Roblox - Backpack Securities",
+    "decimals": 18,
+    "claims": "RBLX",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T08:47:09.410Z"
+  },
+  {
     "address": "0x3c2cd09d3edc2c999be0627dbc9122d5256bab07",
     "symbol": "UNI",
     "name": "UNI",
@@ -11273,6 +11636,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.520Z"
+  },
+  {
+    "address": "0x3db244d42a7aef28a1fda6cb22a79baba143c5e9",
+    "symbol": "PR",
+    "name": "Paper Rush",
+    "decimals": 18,
+    "claims": "PR",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T10:47:19.653Z"
   },
   {
     "address": "0x3dc4f5b9eaf1e34f8b6a8c54bae436e18d617ba3",
@@ -11770,6 +12144,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.143Z"
   },
   {
+    "address": "0x40a1bbdc916b0909502e49da9dccac66ca31db38",
+    "symbol": "PFE",
+    "name": "Umbrella",
+    "decimals": 18,
+    "claims": "PFE",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T10:14:17.772Z"
+  },
+  {
     "address": "0x40aa062d25c93ccc05ff76b3426af6ac11f47061",
     "symbol": "CRCL",
     "name": "Just a Circle",
@@ -12241,6 +12626,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-08T20:50:43.447Z"
+  },
+  {
+    "address": "0x433a966f61572bd6a7d961bb9b3099cd143ed7c0",
+    "symbol": "AMC",
+    "name": "AMC",
+    "decimals": 18,
+    "claims": "AMC",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T04:59:20.805Z"
   },
   {
     "address": "0x43648656ab3afe6e466415ec33c09f61a4c736df",
@@ -12903,6 +13299,17 @@
     "firstSeenAt": "2026-09-08T00:25:44.768Z"
   },
   {
+    "address": "0x4714dfb790be63f17d3eefc8e21895e1691646e9",
+    "symbol": "GME",
+    "name": "GameStop Corp.",
+    "decimals": 18,
+    "claims": "GME",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T17:22:20.868Z"
+  },
+  {
     "address": "0x4732ceb11cb79f8a3ac8c20ea1691a5c0e919208",
     "symbol": "DELL",
     "name": "Dell",
@@ -13145,6 +13552,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.048Z"
   },
   {
+    "address": "0x492a3191ce1063a53179b24b48b36ae17361d222",
+    "symbol": "NVDA",
+    "name": "NVDA",
+    "decimals": 18,
+    "claims": "NVDA",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T22:33:19.431Z"
+  },
+  {
     "address": "0x4936369827a1642c4baaa544a51a3b5ca1be0ba3",
     "symbol": "RIVN",
     "name": "Rivian Automotive",
@@ -13231,6 +13649,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.613Z"
+  },
+  {
+    "address": "0x49946db5ca84efefa3a97b0eec58d5105c20193b",
+    "symbol": "BULL",
+    "name": "The Robinhood Bull",
+    "decimals": 18,
+    "claims": "BULL",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T00:00:20.148Z"
   },
   {
     "address": "0x4994c08fa65eb01b8750e1f70772fd2c610c1b41",
@@ -13442,6 +13871,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.421Z"
   },
   {
+    "address": "0x4ae7659b93c150fc243172ccf4645b5a864df6b8",
+    "symbol": "Coin",
+    "name": "Unit of Cryptocurren",
+    "decimals": 18,
+    "claims": "COIN",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T05:00:20.477Z"
+  },
+  {
     "address": "0x4b04a032fe3646be69873d0d2d5e52c0ebfaf220",
     "symbol": "AVGO",
     "name": "Broadcom Inc. Common Stock",
@@ -13550,6 +13990,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.562Z"
+  },
+  {
+    "address": "0x4bb181dd358b7871d5940c7c1fc8a098d86280c0",
+    "symbol": "coin",
+    "name": "own this coin",
+    "decimals": 18,
+    "claims": "COIN",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T11:41:17.776Z"
   },
   {
     "address": "0x4bc8336948326ff3e7459da98bc4758909801b79",
@@ -13759,6 +14210,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.449Z"
+  },
+  {
+    "address": "0x4d553346622b391d9b5731548544ee23fee3b2c0",
+    "symbol": "PLTR",
+    "name": "Palantir Inu",
+    "decimals": 18,
+    "claims": "PLTR",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T03:12:19.620Z"
   },
   {
     "address": "0x4d5968b0dfedd92fc4ac768787070fcb4c05525e",
@@ -14047,6 +14509,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.306Z"
   },
   {
+    "address": "0x4f83161311a91d28debf139b4bd6038ca2eac44d",
+    "symbol": "TTD",
+    "name": "Trinidad & Tobago Dollar",
+    "decimals": 18,
+    "claims": "TTD",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T13:00:18.322Z"
+  },
+  {
     "address": "0x4f85aef80546df9d1699b98d98fdf877dc1c8ba3",
     "symbol": "BABA",
     "name": "Alibaba",
@@ -14201,6 +14674,17 @@
     "firstSeenAt": "2026-09-04T13:07:16.994Z"
   },
   {
+    "address": "0x50dc12c9d59ebc3c90dedf2047f3e7ccb61fd232",
+    "symbol": "RCAT",
+    "name": "Red Cat",
+    "decimals": 18,
+    "claims": "RCAT",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T12:55:18.704Z"
+  },
+  {
     "address": "0x50fcb3c0d571a2b34a808ee8e7e2f7cdfed6e444",
     "symbol": "RIVN",
     "name": "Rivian Automotive Inc",
@@ -14298,6 +14782,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:16.791Z"
+  },
+  {
+    "address": "0x513417b541a89c5a6091d8c92ff0ea9fd1ee897e",
+    "symbol": "BULL",
+    "name": "The Robinhood Bull",
+    "decimals": 18,
+    "claims": "BULL",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T15:08:19.280Z"
   },
   {
     "address": "0x51355094b6d535422e3841b419dbe8f53f58086a",
@@ -14487,6 +14982,17 @@
     "firstSeenAt": "2026-09-08T13:16:43.075Z"
   },
   {
+    "address": "0x526ea12bc84b1c911e1989f1a406663a570dbeab",
+    "symbol": "AUR",
+    "name": "Aureon",
+    "decimals": 18,
+    "claims": "AUR",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T14:26:20.274Z"
+  },
+  {
     "address": "0x527d477f58ef595816e0673d1f8ce823f4132ba3",
     "symbol": "AAPL",
     "name": "APPLE HOOD",
@@ -14672,6 +15178,28 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-10T00:21:27.481Z"
+  },
+  {
+    "address": "0x53bdabe16e4fd4c8344f8198e514989ac5c77ac4",
+    "symbol": "AAPL",
+    "name": "Ape Always Prefers Leverage",
+    "decimals": 18,
+    "claims": "AAPL",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T11:27:19.418Z"
+  },
+  {
+    "address": "0x53d95811b0a4787477e84e14c3efd25977471deb",
+    "symbol": "META",
+    "name": "Metamantra",
+    "decimals": 18,
+    "claims": "META",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T14:26:19.874Z"
   },
   {
     "address": "0x53ff75292632e40ede6cbad0ecdda9d212ec1fa7",
@@ -15411,6 +15939,17 @@
     "firstSeenAt": "2026-09-04T13:07:18.375Z"
   },
   {
+    "address": "0x590898a162d39f46f8a27fb855d068d08d6b1e18",
+    "symbol": "AMD",
+    "name": "A MEME DOG",
+    "decimals": 18,
+    "claims": "AMD",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T13:50:19.003Z"
+  },
+  {
     "address": "0x5910df15b6dee77e8fed3c66c1b5b5c1bcb83c01",
     "symbol": "QQQ",
     "name": "TripleQQQ",
@@ -15631,6 +16170,17 @@
     "firstSeenAt": "2026-09-06T20:56:28.663Z"
   },
   {
+    "address": "0x5a29112533396e3b6e5564aaa34d06804f94942a",
+    "symbol": "USDC",
+    "name": "USDCOOL",
+    "decimals": 18,
+    "claims": "USDC",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T12:16:19.374Z"
+  },
+  {
     "address": "0x5a312e81556aa4eab4a7610c51e369eac389cccc",
     "symbol": "LMT",
     "name": "Lockheed Martin The Raccoon",
@@ -15695,6 +16245,17 @@
     "exactName": true,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.795Z"
+  },
+  {
+    "address": "0x5a77b3ee70161b8e5cace04abbd158bdef53d83c",
+    "symbol": "VST",
+    "name": "CATROME",
+    "decimals": 18,
+    "claims": "VST",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T22:54:20.377Z"
   },
   {
     "address": "0x5a9bd2a9b916d2ee7002f8588981b41662f8cba3",
@@ -17226,6 +17787,17 @@
     "firstSeenAt": "2026-09-04T13:07:18.313Z"
   },
   {
+    "address": "0x605aa52a7dcb5ef8b141668afcb18d4c535ba479",
+    "symbol": "ily",
+    "name": "There is no meme",
+    "decimals": 18,
+    "claims": "LLY",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T18:17:19.924Z"
+  },
+  {
     "address": "0x60967c8609ce6cb777f613958b2c344be8229c8d",
     "symbol": "CTSH",
     "name": "Cognizant",
@@ -18326,6 +18898,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.092Z"
   },
   {
+    "address": "0x669fddf891f9aec848ace21f10bdd461d832966c",
+    "symbol": "FLY",
+    "name": "Kevin's Fly",
+    "decimals": 18,
+    "claims": "FLY",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T16:14:20.199Z"
+  },
+  {
     "address": "0x66bad53d76e5867c7e56b404b530bd5074da1e18",
     "symbol": "AVGO",
     "name": "Broadcom",
@@ -18412,6 +18995,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.093Z"
+  },
+  {
+    "address": "0x67bb26c9920f2e9539564d2aced6703feb39bb7d",
+    "symbol": "BA",
+    "name": "Bistamp Assets",
+    "decimals": 18,
+    "claims": "BA",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T07:25:18.666Z"
   },
   {
     "address": "0x67bc277fba761ad4dbc86879ca291296b9513713",
@@ -19426,6 +20020,17 @@
     "firstSeenAt": "2026-09-06T21:39:30.590Z"
   },
   {
+    "address": "0x6d299ec119ecd82461d12e3752917d756551417e",
+    "symbol": "Coin",
+    "name": "Unit of Cryptocurrency",
+    "decimals": 18,
+    "claims": "COIN",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T05:04:22.370Z"
+  },
+  {
     "address": "0x6d3d8a8790caccff1f211508e0e61461754cfab3",
     "symbol": "PEPE",
     "name": "Hood Pepe",
@@ -19778,6 +20383,17 @@
     "firstSeenAt": "2026-09-04T13:07:16.802Z"
   },
   {
+    "address": "0x6efbf1b78bdc5bb4fa8249ae73a8b4b6b4847777",
+    "symbol": "RBLX",
+    "name": "Roblox - Backpack Securities",
+    "decimals": 18,
+    "claims": "RBLX",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T08:47:09.412Z"
+  },
+  {
     "address": "0x6f07a8110751bb8e61eacef6af1eea3034866ba3",
     "symbol": "GME",
     "name": "GameStop Inc",
@@ -19886,6 +20502,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.279Z"
+  },
+  {
+    "address": "0x6f627b204a9f372dc09d72d8c245d3a908925f29",
+    "symbol": "PR",
+    "name": "Pump.Robinhood",
+    "decimals": 18,
+    "claims": "PR",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T07:29:20.009Z"
   },
   {
     "address": "0x6f7084108d2e1d7aa33e577f4fb4d072689a20ca",
@@ -20359,6 +20986,28 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:16.927Z"
+  },
+  {
+    "address": "0x72a7baae17717b564894e8e361498895f478415a",
+    "symbol": "DDOG",
+    "name": "DDOG",
+    "decimals": 18,
+    "claims": "DDOG",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T16:00:22.621Z"
+  },
+  {
+    "address": "0x72c7f04a03d76288d7c3c7da97cbf85a8153cfd3",
+    "symbol": "Fly",
+    "name": "It’s time to fly",
+    "decimals": 18,
+    "claims": "FLY",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T05:05:21.153Z"
   },
   {
     "address": "0x72dfd2fba98481eb7b4978aa7da4b2866113793f",
@@ -21065,6 +21714,17 @@
     "firstSeenAt": "2026-09-11T13:48:17.277Z"
   },
   {
+    "address": "0x7725c47bcd90cbfe874f38c6b4fd7b9edc4f1e18",
+    "symbol": "PFE",
+    "name": "Umbrella",
+    "decimals": 18,
+    "claims": "PFE",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T03:12:19.959Z"
+  },
+  {
     "address": "0x7754b7d1ecf0be50ded31c1b3d979576e333bdb0",
     "symbol": "CRWD",
     "name": "CrowdStrike",
@@ -21085,6 +21745,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-11T01:15:55.787Z"
+  },
+  {
+    "address": "0x776c84ba8d9e2a49405cdf2dd3f59268a2bf0a65",
+    "symbol": "pepe",
+    "name": "pepe",
+    "decimals": 18,
+    "claims": "PEPE",
+    "kind": "unverified",
+    "exactName": true,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T10:24:19.031Z"
   },
   {
     "address": "0x7774e8be1e4354396011a13c79f9d829fc961ba3",
@@ -21989,6 +22660,17 @@
     "firstSeenAt": "2026-09-11T00:22:13.251Z"
   },
   {
+    "address": "0x7d4495e08e448c67bdfb2273707888215b36d4ab",
+    "symbol": "ORCL",
+    "name": "ORCL",
+    "decimals": 18,
+    "claims": "ORCL",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T12:06:20.243Z"
+  },
+  {
     "address": "0x7d4c0f6efa7a8d26e82685954820b7bb86c4fe7f",
     "symbol": "SNDK",
     "name": "Sandicks",
@@ -22308,6 +22990,17 @@
     "firstSeenAt": "2026-09-04T13:07:18.004Z"
   },
   {
+    "address": "0x7f3f90b371ff0b50c9570dddc5d670bf8d048b7e",
+    "symbol": "BULL",
+    "name": "The Robinhood Bull",
+    "decimals": 18,
+    "claims": "BULL",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T05:43:22.028Z"
+  },
+  {
     "address": "0x7f476ed3795c40b80aa8e8d591688853db720bc9",
     "symbol": "DJT",
     "name": "Trump Media",
@@ -22385,6 +23078,17 @@
     "firstSeenAt": "2026-09-04T13:07:18.423Z"
   },
   {
+    "address": "0x7fa17919c9590f64401bc1c1e1136863a5c86038",
+    "symbol": "PEPE",
+    "name": "PEPE",
+    "decimals": 18,
+    "claims": "PEPE",
+    "kind": "unverified",
+    "exactName": true,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:49:21.185Z"
+  },
+  {
     "address": "0x7fb8b81258b489db45e53cbfeb5f7cabb846a04f",
     "symbol": "NFLX",
     "name": "Netflix",
@@ -22427,6 +23131,28 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-05T05:45:48.099Z"
+  },
+  {
+    "address": "0x7ffff8fc0429ac4ddf0a6e8a9f3c00640f633a21",
+    "symbol": "te",
+    "name": "te",
+    "decimals": 18,
+    "claims": "TE",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T10:26:18.994Z"
+  },
+  {
+    "address": "0x800999ca2f3f2acb8d94b95b96151840ac46f326",
+    "symbol": "SNAP",
+    "name": "Snap",
+    "decimals": 18,
+    "claims": "SNAP",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T07:49:17.251Z"
   },
   {
     "address": "0x8014e87fb9d62f698ec85ba08d6b702d9ec977c5",
@@ -22559,6 +23285,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:18.043Z"
+  },
+  {
+    "address": "0x813b82fb184dcf972093d4f8031bb2cc7fe21e18",
+    "symbol": "GME",
+    "name": "Gamestop",
+    "decimals": 18,
+    "claims": "GME",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T23:04:21.526Z"
   },
   {
     "address": "0x816d262b3af4761ea97c6781baa2494f7d1bc3b2",
@@ -23375,6 +24112,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.947Z"
   },
   {
+    "address": "0x85c73e61945ec4f01c1dec4c1ecad1e1305a8888",
+    "symbol": "USDT",
+    "name": "Tether",
+    "decimals": 18,
+    "claims": "USDT",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:30:57.981Z"
+  },
+  {
     "address": "0x85d23fa3b48a44df6b153febfadf643a33070ba3",
     "symbol": "NFLX",
     "name": "Netflix",
@@ -23439,6 +24187,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.563Z"
+  },
+  {
+    "address": "0x861ce93ecfde0de8c5668c16a2e651f2c0e31fd4",
+    "symbol": "RCAT",
+    "name": "Robincat",
+    "decimals": 18,
+    "claims": "RCAT",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T18:42:18.652Z"
   },
   {
     "address": "0x86280277613d06aa3211aa4a30da7308b8772668",
@@ -23892,6 +24651,17 @@
     "firstSeenAt": "2026-09-04T13:07:18.036Z"
   },
   {
+    "address": "0x89d99c8a21e6b6bc58bcd9e2eb2198e27e544ba3",
+    "symbol": "AMC",
+    "name": "AMC",
+    "decimals": 18,
+    "claims": "AMC",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T23:48:52.669Z"
+  },
+  {
     "address": "0x89ddd3e2924778a6539df83582cf51c73755eba3",
     "symbol": "RIVN",
     "name": "Rivian Automotive",
@@ -24231,6 +25001,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.938Z"
+  },
+  {
+    "address": "0x8b6e2b46775dda1a59e1ca653285a90450a58813",
+    "symbol": "PFE",
+    "name": "Umbrella Capital",
+    "decimals": 18,
+    "claims": "PFE",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:30:58.480Z"
   },
   {
     "address": "0x8b8ab837b4b402d7d7a3d689995c4486cd205b07",
@@ -24942,7 +25723,7 @@
     "name": "TPG-AXON",
     "decimals": 18,
     "claims": "AXON",
-    "kind": "unverified",
+    "kind": "same_ticker",
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-12T01:54:16.912Z"
@@ -25001,6 +25782,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-11T02:42:13.002Z"
+  },
+  {
+    "address": "0x8fa78a09444e7fb71bb0cba3ba55375a65259513",
+    "symbol": "TTWO",
+    "name": "TAKE-TWO INTERACTIVE",
+    "decimals": 18,
+    "claims": "TTWO",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T17:51:18.965Z"
   },
   {
     "address": "0x8fac38a1320559cc428cfef66a2ce6620cc45cbf",
@@ -25122,6 +25914,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-06T09:04:36.010Z"
+  },
+  {
+    "address": "0x907a4591cfed286734b53f56731f0d7e89e67aac",
+    "symbol": "FLY",
+    "name": "FlyWallet",
+    "decimals": 18,
+    "claims": "FLY",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T15:39:21.108Z"
   },
   {
     "address": "0x907bc328ea48a2abbaa98c58276533f421224b14",
@@ -25663,6 +26466,17 @@
     "firstSeenAt": "2026-09-04T18:36:46.839Z"
   },
   {
+    "address": "0x9395116762721d13c246f6b0a5c41bbb31777a8d",
+    "symbol": "COIN",
+    "name": "COIN",
+    "decimals": 18,
+    "claims": "COIN",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T17:48:19.097Z"
+  },
+  {
     "address": "0x93a6e25ef582e7ba4c65076cad40a7e4c4557036",
     "symbol": "RUN",
     "name": "Bank Run",
@@ -25716,6 +26530,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-08T13:29:24.660Z"
+  },
+  {
+    "address": "0x94165fa0c431cb1861141ab635f2571536d555f7",
+    "symbol": "cbBTC",
+    "name": "Chinese Bitcoin",
+    "decimals": 18,
+    "claims": "cbBTC",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:30:58.220Z"
   },
   {
     "address": "0x94288917ea1549c96bb1d54d9b2ded19b44c91fb",
@@ -25872,6 +26697,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.196Z"
   },
   {
+    "address": "0x951056e73858f85cde1aa29c845f5a5f3a48a1ab",
+    "symbol": "FLY",
+    "name": "FlyScore",
+    "decimals": 18,
+    "claims": "FLY",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T18:11:19.725Z"
+  },
+  {
     "address": "0x951381c496510a1a568962ad00c42a8cbc2a3231",
     "symbol": "NVDA",
     "name": "NVDA",
@@ -26015,6 +26851,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.692Z"
   },
   {
+    "address": "0x9609c384b024b73a2d8cb40666825bb5108b1e18",
+    "symbol": "JNJ",
+    "name": "JohnsonNJohnson",
+    "decimals": 18,
+    "claims": "JNJ",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:30:58.265Z"
+  },
+  {
     "address": "0x960d816ade17f56e6cfe293d047c2a16f14e122a",
     "symbol": "IBM",
     "name": "I Buy Memes",
@@ -26024,6 +26871,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-06T01:24:16.431Z"
+  },
+  {
+    "address": "0x964e09bc430b9fa59ef9e9862adaaa265ff144c4",
+    "symbol": "AAPL",
+    "name": "Apple Hood",
+    "decimals": 18,
+    "claims": "AAPL",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T16:01:21.062Z"
   },
   {
     "address": "0x966229dc765083f9c92b033cd2ddaec96dfe918e",
@@ -26233,6 +27091,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.718Z"
+  },
+  {
+    "address": "0x982013d35d0d54f5012b2b714d86716c63d3402b",
+    "symbol": "BND",
+    "name": "Brunei Dollar",
+    "decimals": 18,
+    "claims": "BND",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T12:36:19.770Z"
   },
   {
     "address": "0x9828c8a740e145b0123f8f950b48aa18a2c07777",
@@ -26554,6 +27423,17 @@
     "firstSeenAt": "2026-09-04T13:07:18.011Z"
   },
   {
+    "address": "0x9954045edd309598b7b90d7a08002ada0930efd2",
+    "symbol": "RCAT",
+    "name": "Red Cat",
+    "decimals": 18,
+    "claims": "RCAT",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T10:46:17.868Z"
+  },
+  {
     "address": "0x995427cc2925f97b61752475790c187e219d1ac9",
     "symbol": "JOBY",
     "name": "Make Joby Famous",
@@ -26673,6 +27553,17 @@
     "exactName": true,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.116Z"
+  },
+  {
+    "address": "0x9a5e128b6111a36378025271ed34a720490e1e18",
+    "symbol": "NOW",
+    "name": "SEE NOW, BUY NOW",
+    "decimals": 18,
+    "claims": "NOW",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T17:11:20.978Z"
   },
   {
     "address": "0x9a5f05ba910dc5a6b9e35463a05093a576c4dba3",
@@ -27190,6 +28081,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:16.968Z"
+  },
+  {
+    "address": "0x9d238b7ab3c5ea127287bea3322346c0c543d06b",
+    "symbol": "MSTR",
+    "name": "Meme Strategy",
+    "decimals": 18,
+    "claims": "MSTR",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T17:21:21.038Z"
   },
   {
     "address": "0x9d256d5a3fa41f9a00393915083d8f241809fba3",
@@ -29249,6 +30151,17 @@
     "firstSeenAt": "2026-09-07T07:01:21.750Z"
   },
   {
+    "address": "0xa93a85e8bdb2a711798bb7d161d518b7dc8f882b",
+    "symbol": "AMD",
+    "name": "Armenian Dram",
+    "decimals": 18,
+    "claims": "AMD",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T12:37:17.764Z"
+  },
+  {
     "address": "0xa93ead4915b7c7adf66039ea01db2d7d3dfa406e",
     "symbol": "RCAT",
     "name": "RED CAT",
@@ -29346,6 +30259,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-05T16:00:51.823Z"
+  },
+  {
+    "address": "0xa9d5bfc2870bd8cc559b123a932725040fb22e08",
+    "symbol": "JOBY",
+    "name": "Free Joby",
+    "decimals": 18,
+    "claims": "JOBY",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:30:58.884Z"
   },
   {
     "address": "0xa9d6b7ee6dc06324e02b5ac61714b79596b7772b",
@@ -29478,6 +30402,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-06T08:46:41.409Z"
+  },
+  {
+    "address": "0xaa84d3970a4c776204b4496bf0895e9e9d2a6bfd",
+    "symbol": "TTWO",
+    "name": "Take-Two Interactive Software",
+    "decimals": 18,
+    "claims": "TTWO",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T17:31:18.741Z"
   },
   {
     "address": "0xaaa21918a772dc5659f79b883e617fe069f4c4bf",
@@ -30052,6 +30987,17 @@
     "firstSeenAt": "2026-09-11T01:15:55.730Z"
   },
   {
+    "address": "0xada4bca1028f9fddd6e3b4222a665de1733cbfe7",
+    "symbol": "PFE",
+    "name": "Pfizer",
+    "decimals": 18,
+    "claims": "PFE",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:30:58.483Z"
+  },
+  {
     "address": "0xadb588ce2467e8bd0742e22dd10ae4358f4966cc",
     "symbol": "QUBT",
     "name": "Quantum Cat",
@@ -30127,6 +31073,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-08T13:49:25.497Z"
+  },
+  {
+    "address": "0xae0a26afffc986ea55d36764a85ea1745ae1bc75",
+    "symbol": "Coin",
+    "name": "I Like the Coin",
+    "decimals": 18,
+    "claims": "COIN",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T14:41:18.061Z"
   },
   {
     "address": "0xae0a3f6f3c5acf787d2ff7874a9f25e827731e18",
@@ -30292,6 +31249,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.252Z"
+  },
+  {
+    "address": "0xaf627e2c7b9eb0f746f6ab36f760a6fb49ae6443",
+    "symbol": "SPCX",
+    "name": "ScammingPeopleCashXtraction",
+    "decimals": 18,
+    "claims": "SPCX",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T12:38:19.763Z"
   },
   {
     "address": "0xaf6923c193331f4633d7743ef2fc1b3f91c11ba3",
@@ -31174,6 +32142,17 @@
     "firstSeenAt": "2026-09-04T13:07:18.425Z"
   },
   {
+    "address": "0xb4877daf38690c1cf3df9996655cb6a562f55aec",
+    "symbol": "PENG",
+    "name": "Penguin Solutions Inc.",
+    "decimals": 18,
+    "claims": "PENG",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T08:13:19.678Z"
+  },
+  {
     "address": "0xb4924c56c762174fec976fc8d85a7717b2821a09",
     "symbol": "SNDK",
     "name": "SanDick",
@@ -31680,6 +32659,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.094Z"
   },
   {
+    "address": "0xb73987e366eabb5b97c4df71f2a031fe27d26eff",
+    "symbol": "FLY",
+    "name": "BUG Destroyer",
+    "decimals": 18,
+    "claims": "FLY",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T13:38:20.097Z"
+  },
+  {
     "address": "0xb73c97e14843e6d638f93d59a48536e8a0647e01",
     "symbol": "RIVN",
     "name": "Rivian Automotive",
@@ -31722,6 +32712,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:18.054Z"
+  },
+  {
+    "address": "0xb77171952fb6ce032587db98db0791525703a1cb",
+    "symbol": "COIN",
+    "name": "Coinbase",
+    "decimals": 18,
+    "claims": "COIN",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T13:17:18.037Z"
   },
   {
     "address": "0xb79890c0c36bc92dd2cfbb08fa8c3c5f28ad126f",
@@ -31922,6 +32923,17 @@
     "firstSeenAt": "2026-09-05T11:10:25.318Z"
   },
   {
+    "address": "0xb899517b57ad71a9ba4485dd594495b1f7a64a33",
+    "symbol": "SGOV",
+    "name": "Government Bonds",
+    "decimals": 18,
+    "claims": "SGOV",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:30:59.269Z"
+  },
+  {
     "address": "0xb8aa90f2fd432165c60cdab9dcf7fbb9a5587777",
     "symbol": "BB",
     "name": "Babes Banking",
@@ -32118,6 +33130,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-10T00:21:27.348Z"
+  },
+  {
+    "address": "0xb9e7bce8040ef55ec9bc1adc3f07d80ccf787f3d",
+    "symbol": "GME",
+    "name": "GameStop",
+    "decimals": 18,
+    "claims": "GME",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T16:52:19.083Z"
   },
   {
     "address": "0xb9fb2af6d2fd6aed11e8a71e90ab5ad1924b19dc",
@@ -32591,6 +33614,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.009Z"
+  },
+  {
+    "address": "0xbc15e62cc05f8ffb94a25098b3dc5d48ff394d99",
+    "symbol": "FLY",
+    "name": "FLY",
+    "decimals": 18,
+    "claims": "FLY",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T16:15:20.939Z"
   },
   {
     "address": "0xbc2b704d79ead772fc90c0a924029e9b55fd57f9",
@@ -33231,6 +34265,17 @@
     "firstSeenAt": "2026-09-05T20:21:59.605Z"
   },
   {
+    "address": "0xc0882da45653924b91b4f9287ad5732ef812026f",
+    "symbol": "COIN",
+    "name": "i like the coin",
+    "decimals": 18,
+    "claims": "COIN",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T17:11:19.574Z"
+  },
+  {
     "address": "0xc08ce5f01a284dece216376814c709c9d858614d",
     "symbol": "PLTR",
     "name": "Palantir",
@@ -33240,6 +34285,28 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.141Z"
+  },
+  {
+    "address": "0xc0c590038f53c3ab9e26db034f34cb82de99c45c",
+    "symbol": "COIN",
+    "name": "Unit of cryptocurrency",
+    "decimals": 18,
+    "claims": "COIN",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T19:23:19.384Z"
+  },
+  {
+    "address": "0xc0f031b9b7b91bfbaf078806e7ca4c1822b6cfb5",
+    "symbol": "AUR",
+    "name": "Aureon",
+    "decimals": 18,
+    "claims": "AUR",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T11:26:18.455Z"
   },
   {
     "address": "0xc0fe504db875de44be3bd8cc35738d86a5086344",
@@ -33361,6 +34428,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.127Z"
+  },
+  {
+    "address": "0xc1a00a18f1e315529d9d68bb37007253d6d90aa0",
+    "symbol": "PENG",
+    "name": "Artificial peng",
+    "decimals": 18,
+    "claims": "PENG",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T19:50:19.374Z"
   },
   {
     "address": "0xc1a01ef7e7ceac07d0f161c4b1712941bbedd2f9",
@@ -33757,6 +34835,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-08T12:47:06.778Z"
+  },
+  {
+    "address": "0xc35c0bfd3fd8af0346f352f6bf13b4c559f79e28",
+    "symbol": "PFE",
+    "name": "Umbrella",
+    "decimals": 18,
+    "claims": "PFE",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:30:58.479Z"
   },
   {
     "address": "0xc36f3138284772bcffe133d334a3a76ca397001a",
@@ -34274,6 +35363,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.442Z"
+  },
+  {
+    "address": "0xc7581ecfd5b3fe5545341652509c90d1ac9fd376",
+    "symbol": "FLY",
+    "name": "FLY",
+    "decimals": 18,
+    "claims": "FLY",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T16:21:19.775Z"
   },
   {
     "address": "0xc79234a9918b15605a456c71d433879600420450",
@@ -34804,6 +35904,17 @@
     "firstSeenAt": "2026-09-11T01:15:53.751Z"
   },
   {
+    "address": "0xca9946043939801119af27e4bcbd581c90fe35b3",
+    "symbol": "pi",
+    "name": "the pons experiment",
+    "decimals": 18,
+    "claims": "PL",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T19:33:20.375Z"
+  },
+  {
     "address": "0xca9c025a9eb332ba36b22e7f46143d706adc33ca",
     "symbol": "SLV",
     "name": "Silver Arrow",
@@ -35077,6 +36188,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.270Z"
+  },
+  {
+    "address": "0xcbf6f3b1459f7491beeebff646bc1c8b401031a5",
+    "symbol": "FIX",
+    "name": "fixtest",
+    "decimals": 18,
+    "claims": "FIX",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T03:51:19.705Z"
   },
   {
     "address": "0xcc09e8d9914eb8c2a73a99e6918950c1cc51d844",
@@ -35420,6 +36542,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.176Z"
   },
   {
+    "address": "0xce161356ba2dad294ed1b135a659d5524c24a67c",
+    "symbol": "SNOW",
+    "name": "Snowcoin",
+    "decimals": 18,
+    "claims": "SNOW",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T18:43:19.398Z"
+  },
+  {
     "address": "0xce22ccf917e67a8c5a4a855db51e580d8da618df",
     "symbol": "$TSLA",
     "name": "TeslaHood",
@@ -35673,6 +36806,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.722Z"
   },
   {
+    "address": "0xcf79e672934a53de2f6158b2d34fed019859a6d0",
+    "symbol": "NVDA",
+    "name": "NVIDIA",
+    "decimals": 18,
+    "claims": "NVDA",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T17:20:20.917Z"
+  },
+  {
     "address": "0xcf7e8f1dd58d401b275379b56e8c34140f74c0dc",
     "symbol": "JNJ",
     "name": "Johnson N Johnson",
@@ -35781,6 +36925,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-11T01:15:55.282Z"
+  },
+  {
+    "address": "0xd02c6e9013296424b60b4e77d949c2b0e55e158e",
+    "symbol": "AMC",
+    "name": "Amcon Robin Hood",
+    "decimals": 18,
+    "claims": "AMC",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T05:25:21.338Z"
   },
   {
     "address": "0xd035fb30385bd6e773dacb2752c59e96dea5ed93",
@@ -36784,6 +37939,17 @@
     "firstSeenAt": "2026-09-11T08:24:07.280Z"
   },
   {
+    "address": "0xd5ad9a98fb17cf9c3c8f78f100e9548e36e4ded1",
+    "symbol": "FLY",
+    "name": "Fly Fly",
+    "decimals": 18,
+    "claims": "FLY",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T15:59:21.727Z"
+  },
+  {
     "address": "0xd5aef276d0511cad8c4663c4bdab8dd241e9acd4",
     "symbol": "PLTR",
     "name": "Palantir Chan",
@@ -36903,6 +38069,17 @@
     "exactName": true,
     "beacon": null,
     "firstSeenAt": "2026-09-05T16:00:51.823Z"
+  },
+  {
+    "address": "0xd65cc3d9fc007b3acbc24ad77819af6ba669cd04",
+    "symbol": "AMD",
+    "name": "AMD",
+    "decimals": 18,
+    "claims": "AMD",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:30:59.213Z"
   },
   {
     "address": "0xd675e0c65a7fb16607840206ec7278bf2e517777",
@@ -37090,6 +38267,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.545Z"
+  },
+  {
+    "address": "0xd7e667e6c491b02c1cf8a6cf2dde87b1b6e5fd73",
+    "symbol": "FLY",
+    "name": "Fly",
+    "decimals": 18,
+    "claims": "FLY",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T16:18:19.924Z"
   },
   {
     "address": "0xd7e6ac5da6d8b3f3cf23249a1abd0312cde8795e",
@@ -37730,6 +38918,17 @@
     "firstSeenAt": "2026-09-04T13:07:16.826Z"
   },
   {
+    "address": "0xdacdba5912351e0e32ef9560c692eff6079d6649",
+    "symbol": "AMD",
+    "name": "Another Millionaire Dream",
+    "decimals": 18,
+    "claims": "AMD",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:30:59.226Z"
+  },
+  {
     "address": "0xdada8e1253cf3d281f7c59f85c18b6ab1c16bba3",
     "symbol": "MU",
     "name": "micron",
@@ -37983,6 +39182,17 @@
     "firstSeenAt": "2026-09-06T17:43:42.850Z"
   },
   {
+    "address": "0xdcaa4cda37006cec111dafce3c4c7038c0ed1745",
+    "symbol": "Coin",
+    "name": "I Like the Coin",
+    "decimals": 18,
+    "claims": "COIN",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T15:34:20.745Z"
+  },
+  {
     "address": "0xdcbfb1c0656a45445b61d94f19f1a74f015d8abd",
     "symbol": "SMH",
     "name": "So Much Higher",
@@ -38148,6 +39358,17 @@
     "firstSeenAt": "2026-09-05T22:29:28.929Z"
   },
   {
+    "address": "0xddafc3050f99ee9277721dd5c8a844d0d3539726",
+    "symbol": "UPS",
+    "name": "Up Syndrome",
+    "decimals": 18,
+    "claims": "UPS",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T11:57:19.869Z"
+  },
+  {
     "address": "0xddb5cbc9ce44123e518b731ef63f5ec9d8437777",
     "symbol": "SLS",
     "name": "SLS IsA SHORT",
@@ -38179,6 +39400,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.706Z"
+  },
+  {
+    "address": "0xddc26ac839871ed9ff9fadf017fc6835ecc81ffd",
+    "symbol": "F",
+    "name": "Finchat",
+    "decimals": 18,
+    "claims": "F",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T12:54:18.867Z"
   },
   {
     "address": "0xdddc720d85afb7277c2d7a38b1b0819cf2d7fba3",
@@ -38577,6 +39809,17 @@
     "firstSeenAt": "2026-09-04T13:07:18.036Z"
   },
   {
+    "address": "0xdfcf763efa5bfc8619b28422a4a498c22f141cdc",
+    "symbol": "XOM",
+    "name": "Contango",
+    "decimals": 18,
+    "claims": "XOM",
+    "kind": "same_ticker",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:30:58.902Z"
+  },
+  {
     "address": "0xdfd6aad2da12e8413169f2bf1bfdfdb86ba8d8f8",
     "symbol": "SPY",
     "name": "SP500 xStock",
@@ -38784,6 +40027,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-05T19:06:23.097Z"
+  },
+  {
+    "address": "0xe0efb7d87cc0b27744bc0f693964f151523eb9bd",
+    "symbol": "pepe",
+    "name": "pepe",
+    "decimals": 18,
+    "claims": "PEPE",
+    "kind": "unverified",
+    "exactName": true,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T20:43:20.018Z"
   },
   {
     "address": "0xe10cc0b53937e22108d4134b7da70783e51f5073",
@@ -39444,6 +40698,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:17.507Z"
+  },
+  {
+    "address": "0xe567eef2729e05d9da7517ca78ca35cdd7247777",
+    "symbol": "WBTC",
+    "name": "Wrapped BTC (Wormhole)",
+    "decimals": 18,
+    "claims": "WBTC",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T08:47:08.191Z"
   },
   {
     "address": "0xe57e2aaf55f1a65021dba1c9fd029ac2dac7cb01",
@@ -40513,6 +41778,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.602Z"
   },
   {
+    "address": "0xeb9c344b7d1e71d5f3e94b60d2cfbcfaa8082751",
+    "symbol": "FLY",
+    "name": "Fly Wallet",
+    "decimals": 18,
+    "claims": "FLY",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T16:18:20.929Z"
+  },
+  {
     "address": "0xebad837ce3aa8dfd30c3a422205daec8b3967ba3",
     "symbol": "RIVN",
     "name": "Rivian Automotive",
@@ -41338,6 +42614,17 @@
     "firstSeenAt": "2026-09-04T13:07:17.833Z"
   },
   {
+    "address": "0xefb6fefe9a36e6c54ff4e505461ba785a96b0f41",
+    "symbol": "FLY",
+    "name": "FlyPum",
+    "decimals": 18,
+    "claims": "FLY",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T16:30:21.170Z"
+  },
+  {
     "address": "0xefc8ad69c2f4d00ac109fa2e051f0ad88f76ef01",
     "symbol": "wulf",
     "name": "wulf",
@@ -41866,6 +43153,28 @@
     "firstSeenAt": "2026-09-04T13:07:17.925Z"
   },
   {
+    "address": "0xf218c2c3c360915eea4daf7af3549041fdb3b1c3",
+    "symbol": "bull",
+    "name": "bull",
+    "decimals": 18,
+    "claims": "BULL",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T04:46:21.621Z"
+  },
+  {
+    "address": "0xf23a328d7735a99cd4fb755a57684dd43ec14012",
+    "symbol": "$Bull",
+    "name": "BULLHOOD",
+    "decimals": 18,
+    "claims": "BULL",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T06:05:20.001Z"
+  },
+  {
     "address": "0xf261eb477d3759d2b86c565a4db1d45888a86490",
     "symbol": "PEPE",
     "name": "PEPE on robinhood",
@@ -41941,6 +43250,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:18.125Z"
+  },
+  {
+    "address": "0xf3010f8fe4f1122bade7a486d9209435ff24b34b",
+    "symbol": "COIN",
+    "name": "just a coin",
+    "decimals": 18,
+    "claims": "COIN",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T03:05:21.692Z"
   },
   {
     "address": "0xf302b4b1e19aec08198713edcfaf3e6073701560",
@@ -42020,6 +43340,17 @@
     "firstSeenAt": "2026-09-04T13:07:18.351Z"
   },
   {
+    "address": "0xf3621b73784fc55322eddd6b4a166d03062c1bca",
+    "symbol": "BULL",
+    "name": "The Crypto Bull",
+    "decimals": 18,
+    "claims": "BULL",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T03:13:20.113Z"
+  },
+  {
     "address": "0xf3d1ba9f21e707bfafae66742478dd0723d344fe",
     "symbol": "JNJ",
     "name": "Johnson N Johnson",
@@ -42051,6 +43382,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:18.225Z"
+  },
+  {
+    "address": "0xf3f39ff776e8ab01766efc6fc2cd03e146b17777",
+    "symbol": "WBTC",
+    "name": "Wrapped BTC (Wormhole)",
+    "decimals": 18,
+    "claims": "WBTC",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T08:47:08.193Z"
   },
   {
     "address": "0xf3f72d80bcf82326c8da974c743a3b27036ac015",
@@ -42157,7 +43499,7 @@
     "name": "Gold",
     "decimals": 18,
     "claims": "GLD",
-    "kind": "unverified",
+    "kind": "same_ticker",
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-11T14:21:16.101Z"
@@ -42614,6 +43956,17 @@
     "firstSeenAt": "2026-09-04T13:07:18.044Z"
   },
   {
+    "address": "0xf7698162ba390b8820dee52b90140edbb923a2b4",
+    "symbol": "GME",
+    "name": "Gamestop",
+    "decimals": 18,
+    "claims": "GME",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T06:12:22.626Z"
+  },
+  {
     "address": "0xf76a37ffaf4e5addc9d9a12cc805b3b84520a5de",
     "symbol": "Pepe",
     "name": "Pepe",
@@ -42645,6 +43998,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-05T21:21:30.220Z"
+  },
+  {
+    "address": "0xf7cfd967621917033c3d15691b5d697628af0ba3",
+    "symbol": "AMD",
+    "name": "AgentsMD",
+    "decimals": 18,
+    "claims": "AMD",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T22:34:20.180Z"
   },
   {
     "address": "0xf7d0031925ea43a1ed38c9c0d9bfa81cecd07b28",
@@ -42806,7 +44170,7 @@
     "name": "Selves",
     "decimals": 18,
     "claims": "SLV",
-    "kind": "unverified",
+    "kind": "same_ticker",
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-12T02:46:16.887Z"
@@ -43096,6 +44460,17 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-04T13:07:18.275Z"
+  },
+  {
+    "address": "0xfa4ccb7138ebe300763e9856bd24642483a4099b",
+    "symbol": "AUR",
+    "name": "Aureon",
+    "decimals": 18,
+    "claims": "AUR",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T16:16:19.769Z"
   },
   {
     "address": "0xfa5b02a70513bd0c22996775df76b05ae9ba4ba3",
@@ -43514,6 +44889,28 @@
     "exactName": false,
     "beacon": null,
     "firstSeenAt": "2026-09-07T20:31:24.388Z"
+  },
+  {
+    "address": "0xfdaa50cd57895db27ac88632187532fddf018c01",
+    "symbol": "PENDLE",
+    "name": "Pendle",
+    "decimals": 18,
+    "claims": "PENDLE",
+    "kind": "unverified",
+    "exactName": true,
+    "beacon": null,
+    "firstSeenAt": "2026-09-13T01:30:58.009Z"
+  },
+  {
+    "address": "0xfdb7a0e28d4d033a0ec237f5f0dfdec83bcc88b1",
+    "symbol": "FLY",
+    "name": "FlyWallet",
+    "decimals": 18,
+    "claims": "FLY",
+    "kind": "unverified",
+    "exactName": false,
+    "beacon": null,
+    "firstSeenAt": "2026-09-12T16:04:20.435Z"
   },
   {
     "address": "0xfdc119609ad27bb8a65bccc5f6c302c465da3713",
