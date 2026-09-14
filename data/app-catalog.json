@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-14T06:35:53.163Z",
+  "fetchedAt": "2026-09-14T09:03:45.270Z",
   "chainId": 4663,
   "items": [
     {
@@ -13703,8 +13703,8 @@
   "observations": [
     {
       "source": "https://nummus.robinhood.com/currency_pairs/",
-      "observedAt": "2026-09-14T06:35:43.507Z",
-      "ageSeconds": 10,
+      "observedAt": "2026-09-14T09:03:45.833Z",
+      "ageSeconds": 0,
       "stale": false,
       "error": null,
       "offset": 0,
@@ -13712,8 +13712,8 @@
     },
     {
       "source": "https://nummus.robinhood.com/currency_pairs/",
-      "observedAt": "2026-09-14T06:35:43.507Z",
-      "ageSeconds": 11,
+      "observedAt": "2026-09-14T09:03:45.833Z",
+      "ageSeconds": 0,
       "stale": false,
       "error": null,
       "offset": 200,
@@ -13721,8 +13721,8 @@
     },
     {
       "source": "https://nummus.robinhood.com/currency_pairs/",
-      "observedAt": "2026-09-14T06:35:43.507Z",
-      "ageSeconds": 11,
+      "observedAt": "2026-09-14T09:03:45.833Z",
+      "ageSeconds": 1,
       "stale": false,
       "error": null,
       "offset": 400,

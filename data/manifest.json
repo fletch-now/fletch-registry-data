@@ -1,13 +1,13 @@
 {
-  "fetchedAt": "2026-09-14T06:35:53.163Z",
+  "fetchedAt": "2026-09-14T09:03:45.270Z",
   "api": "https://fletch.now/api/v1",
   "chainId": 4663,
   "status": {
     "verdict": "live",
     "summary": "Every job ran on time; transfer-ledger and dex-state and dex-token-discovery still catching up.",
-    "checkedAt": "2026-09-14T06:35:53.857Z",
-    "headBlock": "62599386",
-    "headReadAt": "2026-09-14T06:35:30.192Z",
+    "checkedAt": "2026-09-14T09:03:45.668Z",
+    "headBlock": "62686512",
+    "headReadAt": "2026-09-14T09:02:46.238Z",
     "failingJobs": []
   },
   "appCatalog": {
@@ -26,8 +26,8 @@
     }
   },
   "lookalikes": {
-    "rows": 20014,
-    "pages": 21,
+    "rows": 21469,
+    "pages": 22,
     "complete": true
   },
   "controlPlane": {
@@ -36,9 +36,9 @@
     "complete": true
   },
   "events": {
-    "appended": 1323,
-    "total": 5155,
-    "cursor": "2026-09-14T06:36:08.329Z|ev_e0432076a515646a14fe6a7e",
+    "appended": 346,
+    "total": 5501,
+    "cursor": "2026-09-14T09:03:08.472Z|ev_d27fb73a4327805f6a142a5b",
     "complete": true
   }
 }
