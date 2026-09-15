@@ -1,5 +1,5 @@
 {
-  "fetchedAt": "2026-09-14T09:03:45.270Z",
+  "fetchedAt": "2026-09-15T06:35:16.856Z",
   "chainId": 4663,
   "items": [
     {
@@ -6339,20 +6339,52 @@
       "marketsUrl": "/api/v1/chains/4663/markets?q=IN"
     },
     {
-      "symbol": "INDEX COOP",
+      "symbol": "INDEX",
+      "name": "The Index",
+      "status": "display_only",
+      "label": "Crypto price feed only",
+      "pairs": [
+        {
+          "id": "385acd98-adab-430b-8f1a-11293c066aae",
+          "symbol": "INDEX-USD",
+          "tradability": "untradable",
+          "display_only": true,
+          "is_stablecoin": false,
+          "asset_currency": {
+            "id": "3c4bd7b9-4570-4bef-b3d4-ca217f610703",
+            "code": "INDEX",
+            "name": "The Index",
+            "display_only": true
+          },
+          "max_order_size": "1.0000000000000000",
+          "min_order_size": "1.000000000000000000",
+          "quote_currency": {
+            "code": "USD"
+          },
+          "tradability_by_account_type": {
+            "ira_roth": "untradable",
+            "individual": "untradable",
+            "ira_traditional": "untradable"
+          }
+        }
+      ],
+      "marketsUrl": "/api/v1/chains/4663/markets?q=INDEX"
+    },
+    {
+      "symbol": "INDEXCO",
       "name": "Index Cooperative",
       "status": "display_only",
       "label": "Crypto price feed only",
       "pairs": [
         {
           "id": "f24d60a6-949c-41e5-8f28-69d2abdc0382",
-          "symbol": "INDEX-USD",
+          "symbol": "INDEXCO-USD",
           "tradability": "untradable",
           "display_only": true,
           "is_stablecoin": false,
           "asset_currency": {
             "id": "273007e6-3fd1-443e-8532-af3d7c3f74aa",
-            "code": "INDEX COOP",
+            "code": "INDEXCO",
             "name": "Index Cooperative",
             "display_only": true
           },
@@ -6368,7 +6400,7 @@
           }
         }
       ],
-      "marketsUrl": "/api/v1/chains/4663/markets?q=INDEX%20COOP"
+      "marketsUrl": "/api/v1/chains/4663/markets?q=INDEXCO"
     },
     {
       "symbol": "INJ",
@@ -13699,11 +13731,11 @@
       "marketsUrl": "/api/v1/chains/4663/markets?q=ZRX"
     }
   ],
-  "total": 428,
+  "total": 429,
   "observations": [
     {
       "source": "https://nummus.robinhood.com/currency_pairs/",
-      "observedAt": "2026-09-14T09:03:45.833Z",
+      "observedAt": "2026-09-15T06:35:18.012Z",
       "ageSeconds": 0,
       "stale": false,
       "error": null,
@@ -13712,7 +13744,7 @@
     },
     {
       "source": "https://nummus.robinhood.com/currency_pairs/",
-      "observedAt": "2026-09-14T09:03:45.833Z",
+      "observedAt": "2026-09-15T06:35:18.012Z",
       "ageSeconds": 0,
       "stale": false,
       "error": null,
@@ -13721,12 +13753,12 @@
     },
     {
       "source": "https://nummus.robinhood.com/currency_pairs/",
-      "observedAt": "2026-09-14T09:03:45.833Z",
+      "observedAt": "2026-09-15T06:35:18.012Z",
       "ageSeconds": 1,
       "stale": false,
       "error": null,
       "offset": 400,
-      "count": 28
+      "count": 29
     }
   ],
   "complete": true
