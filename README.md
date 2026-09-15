@@ -2,10 +2,16 @@
 
 Daily git snapshots of every Stock Token, known lookalike and registry event on Robinhood Chain (chain id 4663), pulled from the public Fletch API at `https://fletch.now/api/v1`; `data/verify.json` alone is read from the chain's public RPC by `scripts/verify.mjs`. Each snapshot is a commit, so `git log -p data/` is the history and `git diff` between two days is the change.
 
-[fletch.now/developers](https://fletch.now/developers) · [API reference](https://fletch.now/api/v1/docs) · [Registry](https://fletch.now/registry) · [llms.txt](https://fletch.now/llms.txt)
+[fletch.now/developers](https://fletch.now/developers) · [API reference](https://fletch.now/api/v1/docs) · [Registry](https://fletch.now/registry) · [Agent guide](https://fletch.now/skill.md) · [llms.txt](https://fletch.now/llms.txt)
 
 Read [AI.md](AI.md) before using a snapshot as model context: timestamps, nulls,
 trust and coverage are part of the answer. Use the live API for current values.
+
+Token market pages use `https://fletch.now/registry/markets/{address}` with a
+lowercase contract address. Earlier `/registry/token/{address}` links redirect
+there. JSON endpoints and dated snapshots keep their existing paths. The live
+[agent guide](https://fletch.now/skill.md) explains endpoint selection, network
+scope, observation ages and authentication.
 
 ## Files
 
