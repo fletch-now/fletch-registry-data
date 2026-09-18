@@ -1,14 +1,15 @@
 {
-  "fetchedAt": "2026-09-15T06:35:16.856Z",
+  "fetchedAt": "2026-09-18T06:32:53.165Z",
   "api": "https://fletch.now/api/v1",
   "chainId": 4663,
   "status": {
-    "verdict": "live",
-    "summary": "1 of 40 jobs is not current (late: dex-swap-backfill).",
-    "checkedAt": "2026-09-15T06:35:17.479Z",
-    "headBlock": "63449018",
-    "headReadAt": "2026-09-15T06:34:15.011Z",
+    "verdict": "stale",
+    "summary": "The registry daemon last reported 39 h ago; every figure is as old as its last run.",
+    "checkedAt": "2026-09-18T06:32:53.848Z",
+    "headBlock": "64620714",
+    "headReadAt": "2026-09-16T15:36:24.141Z",
     "failingJobs": [
+      "lookalikes",
       "priority-holders"
     ]
   },
@@ -28,8 +29,8 @@
     }
   },
   "lookalikes": {
-    "rows": 24477,
-    "pages": 25,
+    "rows": 25435,
+    "pages": 26,
     "complete": true
   },
   "controlPlane": {
@@ -38,9 +39,9 @@
     "complete": true
   },
   "events": {
-    "appended": 5959,
-    "total": 11460,
-    "cursor": "2026-09-15T06:34:58.903Z|ev_94eb9b6a77e9f531bee00c7d",
+    "appended": 4730,
+    "total": 16190,
+    "cursor": "2026-09-16T15:40:17.439Z|ev_f9519a0c62df22ae8fedc86a",
     "complete": true
   }
 }
