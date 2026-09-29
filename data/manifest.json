@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-09-28T06:37:32.254Z",
+  "fetchedAt": "2026-09-29T06:36:09.013Z",
   "api": "https://fletch.now/api/v1",
   "chainId": 4663,
   "status": {
     "verdict": "stale",
-    "summary": "The registry daemon last reported 12 d ago; every figure is as old as its last run.",
-    "checkedAt": "2026-09-28T06:37:32.976Z",
+    "summary": "The registry daemon last reported 13 d ago; every figure is as old as its last run.",
+    "checkedAt": "2026-09-29T06:36:10.010Z",
     "headBlock": "64620714",
     "headReadAt": "2026-09-16T15:36:24.141Z",
     "failingJobs": [
